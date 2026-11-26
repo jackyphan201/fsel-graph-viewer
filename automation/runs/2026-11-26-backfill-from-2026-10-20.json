@@ -1,0 +1,39 @@
+{
+  "run_at": "2026-11-26T11:33:00+07:00",
+  "type": "historical_backfill",
+  "from": "2026-10-20T00:00:00+07:00",
+  "scope": {
+    "from": "2026-10-20T00:00:00+07:00",
+    "scanned_through": "2026-11-26T11:30:00+07:00",
+    "jira_projects": [
+      "FSEL",
+      "FHI",
+      "FSLP"
+    ],
+    "wiki_spaces": [
+      "FD",
+      "LFD"
+    ]
+  },
+  "status": "completed_with_pending_document_links",
+  "jira_candidates": 788,
+  "jira_in_window": 783,
+  "excluded_before_window": 5,
+  "jira_detail_errors": [],
+  "wiki_candidates": 42,
+  "wiki_details_read": 42,
+  "verified_links": 97,
+  "linked_wiki_pages": 20,
+  "pending_wiki_pages": 22,
+  "added_nodes": 796,
+  "added_edges": 95,
+  "total_nodes": 1499,
+  "total_edges": 1287,
+  "watermark_advanced": false,
+  "limitations": [
+    "Coverage limited to accessible FSEL/FHI/FSLP Jira projects and FD/LFD Wiki spaces.",
+    "Jira issue nodes without a verified Wiki link are not verified Task Docs.",
+    "Connector timezone unconfirmed; exact issue.created checked against Vietnam start time.",
+    "Existing baseline preserved; no deployment inference from Done."
+  ]
+}

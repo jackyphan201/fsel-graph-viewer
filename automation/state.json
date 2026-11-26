@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T11:26:36+07:00",
+  "updated_at": "2026-11-26T11:33:00+07:00",
   "successful_scan_watermark": null,
-  "initial_baseline": "2026-11-12T00:00:00+07:00",
+  "initial_baseline": "2026-10-20T00:00:00+07:00",
   "connector_timezone": "unconfirmed",
   "jira_projects": [
     "FSEL",
@@ -15,297 +15,1544 @@
   ],
   "verified_pairs": [
     {
+      "jira_key": "FHI-249",
+      "page_id": "110985438",
+      "evidence": "source-read",
+      "source": "Jira FHI-249 description explicitly references Confluence page 110985438"
+    },
+    {
+      "jira_key": "FHI-250",
+      "page_id": "110985438",
+      "evidence": "source-read",
+      "source": "Jira FHI-250 description explicitly references Confluence page 110985438"
+    },
+    {
+      "jira_key": "FHI-251",
+      "page_id": "110985438",
+      "evidence": "source-read",
+      "source": "Jira FHI-251 description explicitly references Confluence page 110985438"
+    },
+    {
+      "jira_key": "FHI-252",
+      "page_id": "110985451",
+      "evidence": "source-read",
+      "source": "Jira FHI-252 description explicitly references Confluence page 110985451"
+    },
+    {
+      "jira_key": "FHI-253",
+      "page_id": "110985727",
+      "evidence": "source-read",
+      "source": "Jira FHI-253 description explicitly references Confluence page 110985727"
+    },
+    {
+      "jira_key": "FHI-254",
+      "page_id": "110985727",
+      "evidence": "source-read",
+      "source": "Jira FHI-254 description explicitly references Confluence page 110985727"
+    },
+    {
       "jira_key": "FHI-255",
       "page_id": "110985733",
-      "page_version": 5,
-      "issue_status": "Canceled",
-      "evidence": "issue description explicitly links pageId=110985733"
+      "evidence": "source-read",
+      "source": "Jira FHI-255 description explicitly references Confluence page 110985733"
     },
     {
       "jira_key": "FHI-256",
       "page_id": "110985733",
-      "page_version": 5,
-      "issue_status": "Canceled",
-      "evidence": "issue description explicitly links pageId=110985733"
+      "evidence": "source-read",
+      "source": "Jira FHI-256 description explicitly references Confluence page 110985733"
+    },
+    {
+      "jira_key": "FHI-257",
+      "page_id": "110985751",
+      "evidence": "source-read",
+      "source": "Jira FHI-257 description explicitly references Confluence page 110985751"
+    },
+    {
+      "jira_key": "FHI-258",
+      "page_id": "110985751",
+      "evidence": "source-read",
+      "source": "Jira FHI-258 description explicitly references Confluence page 110985751"
+    },
+    {
+      "jira_key": "FHI-259",
+      "page_id": "110985727",
+      "evidence": "source-read",
+      "source": "Jira FHI-259 description explicitly references Confluence page 110985727"
+    },
+    {
+      "jira_key": "FHI-259",
+      "page_id": "110985771",
+      "evidence": "source-read",
+      "source": "Jira FHI-259 description explicitly references Confluence page 110985771"
+    },
+    {
+      "jira_key": "FHI-260",
+      "page_id": "110985727",
+      "evidence": "source-read",
+      "source": "Jira FHI-260 description explicitly references Confluence page 110985727"
+    },
+    {
+      "jira_key": "FHI-260",
+      "page_id": "110985771",
+      "evidence": "source-read",
+      "source": "Jira FHI-260 description explicitly references Confluence page 110985771"
+    },
+    {
+      "jira_key": "FSLP-870",
+      "page_id": "85860343",
+      "evidence": "source-read",
+      "source": "Jira FSLP-870 description explicitly references Confluence page 85860343"
+    },
+    {
+      "jira_key": "FSLP-871",
+      "page_id": "85860343",
+      "evidence": "source-read",
+      "source": "Jira FSLP-871 description explicitly references Confluence page 85860343"
+    },
+    {
+      "jira_key": "FSLP-884",
+      "page_id": "110985599",
+      "evidence": "source-read",
+      "source": "Jira FSLP-884 description explicitly references Confluence page 110985599"
+    },
+    {
+      "jira_key": "FSLP-944",
+      "page_id": "85860343",
+      "evidence": "source-read",
+      "source": "Jira FSLP-944 description explicitly references Confluence page 85860343"
+    },
+    {
+      "jira_key": "FSLP-1006",
+      "page_id": "85860343",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1006 description explicitly references Confluence page 85860343"
+    },
+    {
+      "jira_key": "FSLP-1053",
+      "page_id": "85860845",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1053 description explicitly references Confluence page 85860845"
+    },
+    {
+      "jira_key": "FSLP-1055",
+      "page_id": "85860845",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1055 description explicitly references Confluence page 85860845"
+    },
+    {
+      "jira_key": "FSLP-1056",
+      "page_id": "85860845",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1056 description explicitly references Confluence page 85860845"
+    },
+    {
+      "jira_key": "FSLP-1057",
+      "page_id": "85860845",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1057 description explicitly references Confluence page 85860845"
+    },
+    {
+      "jira_key": "FSLP-1070",
+      "page_id": "85860845",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1070 description explicitly references Confluence page 85860845"
+    },
+    {
+      "jira_key": "FSLP-1089",
+      "page_id": "85860343",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1089 description explicitly references Confluence page 85860343"
+    },
+    {
+      "jira_key": "FSLP-1090",
+      "page_id": "85860343",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1090 description explicitly references Confluence page 85860343"
+    },
+    {
+      "jira_key": "FSLP-1091",
+      "page_id": "85860343",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1091 description explicitly references Confluence page 85860343"
+    },
+    {
+      "jira_key": "FSLP-1094",
+      "page_id": "85860343",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1094 description explicitly references Confluence page 85860343"
+    },
+    {
+      "jira_key": "FSLP-1095",
+      "page_id": "85860343",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1095 description explicitly references Confluence page 85860343"
+    },
+    {
+      "jira_key": "FSLP-1096",
+      "page_id": "85860343",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1096 description explicitly references Confluence page 85860343"
+    },
+    {
+      "jira_key": "FSLP-1102",
+      "page_id": "85860960",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1102 description explicitly references Confluence page 85860960"
+    },
+    {
+      "jira_key": "FSLP-1103",
+      "page_id": "110985303",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1103 description explicitly references Confluence page 110985303"
+    },
+    {
+      "jira_key": "FSLP-1240",
+      "page_id": "110985384",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1240 description explicitly references Confluence page 110985384"
+    },
+    {
+      "jira_key": "FSLP-1271",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1271 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1293",
+      "page_id": "110985303",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1293 description explicitly references Confluence page 110985303"
+    },
+    {
+      "jira_key": "FSLP-1294",
+      "page_id": "110985384",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1294 description explicitly references Confluence page 110985384"
+    },
+    {
+      "jira_key": "FSLP-1295",
+      "page_id": "110985303",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1295 description explicitly references Confluence page 110985303"
+    },
+    {
+      "jira_key": "FSLP-1296",
+      "page_id": "110985303",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1296 description explicitly references Confluence page 110985303"
+    },
+    {
+      "jira_key": "FSLP-1297",
+      "page_id": "110985303",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1297 description explicitly references Confluence page 110985303"
+    },
+    {
+      "jira_key": "FSLP-1298",
+      "page_id": "85860960",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1298 description explicitly references Confluence page 85860960"
+    },
+    {
+      "jira_key": "FSLP-1299",
+      "page_id": "85860960",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1299 description explicitly references Confluence page 85860960"
+    },
+    {
+      "jira_key": "FSLP-1300",
+      "page_id": "85860960",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1300 description explicitly references Confluence page 85860960"
+    },
+    {
+      "jira_key": "FSLP-1303",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1303 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1312",
+      "page_id": "110985533",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1312 description explicitly references Confluence page 110985533"
+    },
+    {
+      "jira_key": "FSLP-1321",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1321 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1322",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1322 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1323",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1323 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1324",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1324 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1325",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1325 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1326",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1326 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1327",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1327 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1328",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1328 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1359",
+      "page_id": "110985533",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1359 description explicitly references Confluence page 110985533"
+    },
+    {
+      "jira_key": "FSLP-1375",
+      "page_id": "110985678",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1375 description explicitly references Confluence page 110985678"
+    },
+    {
+      "jira_key": "FSLP-1376",
+      "page_id": "110985678",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1376 description explicitly references Confluence page 110985678"
+    },
+    {
+      "jira_key": "FSLP-1377",
+      "page_id": "110985678",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1377 description explicitly references Confluence page 110985678"
+    },
+    {
+      "jira_key": "FSLP-1387",
+      "page_id": "110985533",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1387 description explicitly references Confluence page 110985533"
+    },
+    {
+      "jira_key": "FSLP-1388",
+      "page_id": "110985533",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1388 description explicitly references Confluence page 110985533"
+    },
+    {
+      "jira_key": "FSLP-1389",
+      "page_id": "110985533",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1389 description explicitly references Confluence page 110985533"
+    },
+    {
+      "jira_key": "FSLP-1590",
+      "page_id": "110985626",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1590 description explicitly references Confluence page 110985626"
+    },
+    {
+      "jira_key": "FSLP-1591",
+      "page_id": "110985626",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1591 description explicitly references Confluence page 110985626"
+    },
+    {
+      "jira_key": "FSLP-1592",
+      "page_id": "110985626",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1592 description explicitly references Confluence page 110985626"
+    },
+    {
+      "jira_key": "FSLP-1593",
+      "page_id": "110985626",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1593 description explicitly references Confluence page 110985626"
+    },
+    {
+      "jira_key": "FSLP-1594",
+      "page_id": "110985626",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1594 description explicitly references Confluence page 110985626"
+    },
+    {
+      "jira_key": "FSLP-1601",
+      "page_id": "110985981",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1601 description explicitly references Confluence page 110985981"
+    },
+    {
+      "jira_key": "FSLP-1620",
+      "page_id": "110985384",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1620 description explicitly references Confluence page 110985384"
+    },
+    {
+      "jira_key": "FSLP-1621",
+      "page_id": "110985384",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1621 description explicitly references Confluence page 110985384"
+    },
+    {
+      "jira_key": "FSLP-1622",
+      "page_id": "110985384",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1622 description explicitly references Confluence page 110985384"
+    },
+    {
+      "jira_key": "FSLP-1623",
+      "page_id": "110985384",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1623 description explicitly references Confluence page 110985384"
+    },
+    {
+      "jira_key": "FSLP-1627",
+      "page_id": "110985599",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1627 description explicitly references Confluence page 110985599"
+    },
+    {
+      "jira_key": "FSLP-1628",
+      "page_id": "110985599",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1628 description explicitly references Confluence page 110985599"
+    },
+    {
+      "jira_key": "FSLP-1629",
+      "page_id": "110985599",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1629 description explicitly references Confluence page 110985599"
+    },
+    {
+      "jira_key": "FSLP-1630",
+      "page_id": "110985599",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1630 description explicitly references Confluence page 110985599"
+    },
+    {
+      "jira_key": "FSLP-1645",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1645 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1645",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1645 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1650",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1650 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1650",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1650 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1651",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1651 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1651",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1651 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1652",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1652 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1652",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1652 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1655",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1655 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1655",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1655 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1663",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1663 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1663",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1663 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1664",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1664 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1664",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1664 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1665",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1665 description explicitly references Confluence page 110985360"
+    },
+    {
+      "jira_key": "FSLP-1665",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1665 description explicitly references Confluence page 110985481"
+    },
+    {
+      "jira_key": "FSLP-1697",
+      "page_id": "110985995",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1697 description explicitly references Confluence page 110985995"
+    },
+    {
+      "jira_key": "FSLP-1698",
+      "page_id": "110985995",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1698 description explicitly references Confluence page 110985995"
+    },
+    {
+      "jira_key": "FSLP-1699",
+      "page_id": "110985947",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1699 description explicitly references Confluence page 110985947"
+    },
+    {
+      "jira_key": "FSLP-1718",
+      "page_id": "110985947",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1718 description explicitly references Confluence page 110985947"
+    },
+    {
+      "jira_key": "FSLP-1719",
+      "page_id": "85860343",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1719 description explicitly references Confluence page 85860343"
+    },
+    {
+      "jira_key": "FSLP-1743",
+      "page_id": "110985626",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1743 description explicitly references Confluence page 110985626"
+    },
+    {
+      "jira_key": "FSLP-1744",
+      "page_id": "110985626",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1744 description explicitly references Confluence page 110985626"
+    },
+    {
+      "jira_key": "FSLP-1745",
+      "page_id": "110985626",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1745 description explicitly references Confluence page 110985626"
     }
   ],
   "pending_pages": [
     {
+      "id": "85860329",
+      "title": "[LMS Admin Campus] Kết quả học tập - Nhập điểm thi bên ngoài",
+      "version": 18,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "85860577",
+      "title": "LadingPage",
+      "version": 1,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "85860579",
+      "title": "Khaosatsinhvientueba.fsel.edu.vn",
+      "version": 4,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "85860693",
+      "title": "[LMS Admin] Bổ sung chức năng tạo tài khoản và xuất dữ liệu hàng loạt",
+      "version": 15,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "85860837",
+      "title": "[LMS] Nhận phản hồi tự động và theo dõi tiến độ xử lý Ticket cá nhân",
+      "version": 8,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "85860843",
+      "title": "[LMS] Gửi báo lỗi kèm chống Spam (Rate Limiting) và tự động gắn vị trí màn hình",
+      "version": 11,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "85860915",
+      "title": "LCMS Thêm mới Layout Bài test Short Answer Speaking/Writing cho Test",
+      "version": 8,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "85860950",
+      "title": "[LMS][Mobile] Cập nhật giao diện Các dạng bài tập hỗ trợ màn hình ngang và dọc",
+      "version": 1,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "85860952",
+      "title": "[LMS][Mobile] Hiển thị khung làm bài ngang/dọc và giữ trạng thái khi xoay",
+      "version": 10,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "85861018",
+      "title": "[Portal Admin] Truy cập giả lập tài khoản học viên (Login as User) từ Ticket báo lỗi",
+      "version": 3,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "85861063",
+      "title": "[LMS][Mobile] Điều hướng câu hỏi và danh sách câu ở hai hướng màn hình",
+      "version": 5,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "110985219",
+      "title": "[Portal Admin] Quản lý, thống kê và xuất dữ liệu Ticket theo Tenant & Sự kiện",
+      "version": 6,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "110985285",
+      "title": "[LMS][Mobile] Hiển thị timer, xác nhận nộp bài và tự nộp khi hết giờ",
+      "version": 4,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "110985296",
+      "title": "[Portal Admin] Cấu hình danh sách Nhóm lỗi & Mức độ ưu tiên",
+      "version": 2,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "110985436",
+      "title": "CR - Tự động nhận diện, phân loại và điều phối báo lỗi bằng Machine Learning",
+      "version": 1,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "110985538",
+      "title": "Hệ thống báo cáo và cơ cấu vinh danh - Sở, trường",
+      "version": 4,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "110985589",
+      "title": "Hệ thống báo cáo và cơ cấu vinh danh - Giáo viên",
+      "version": 2,
+      "verification": "pending source linkage"
+    },
+    {
+      "id": "110985620",
+      "title": "[Portal Admin] Tự động thông báo hoàn tất & Cảnh báo quá hạn SLA (Notifications & Alerts)",
+      "version": 7,
+      "verification": "pending source linkage"
+    },
+    {
       "id": "110985677",
       "title": "[LCMS] Bổ sung chức năng Import bài Test từ file Excel trong Test Config",
-      "created": "2026-11-12T16:15:23.704+07:00",
-      "ancestors": [
-        {
-          "id": "60522700",
-          "title": "LCMS/LMS FSEL Document"
-        },
-        {
-          "id": "60522701",
-          "title": "LCMS/LMS"
-        }
-      ],
-      "jira_keys": [],
-      "links": [],
-      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985677",
-      "verification": "pending Jira/source matching"
-    },
-    {
-      "id": "110985678",
-      "title": "[LMS Admin Campus] Tổng hợp điểm quá trình, xét điều kiện dự thi và tính điểm học phần",
-      "created": "2026-11-12T16:19:06.753+07:00",
-      "ancestors": [
-        {
-          "id": "60522700",
-          "title": "LCMS/LMS FSEL Document"
-        },
-        {
-          "id": "60523438",
-          "title": "Fsel InSchool"
-        }
-      ],
-      "jira_keys": [],
-      "links": [],
-      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985678",
-      "verification": "pending Jira/source matching"
-    },
-    {
-      "id": "110985727",
-      "title": "CR - Quản lý ticket",
-      "created": "2026-11-16T14:22:10.167+07:00",
-      "ancestors": [
-        {
-          "id": "60522700",
-          "title": "LCMS/LMS FSEL Document"
-        },
-        {
-          "id": "60522720",
-          "title": "LMS Admin"
-        },
-        {
-          "id": "85852282",
-          "title": "FSEL Portal"
-        },
-        {
-          "id": "85853880",
-          "title": "Happy Index"
-        },
-        {
-          "id": "85854637",
-          "title": "9. Quản lý ticket"
-        }
-      ],
-      "jira_keys": [],
-      "links": [],
-      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985727",
-      "verification": "pending Jira/source matching"
-    },
-    {
-      "id": "110985751",
-      "title": "4. Sự cố (Incident)",
-      "created": "2026-11-16T15:15:47.507+07:00",
-      "ancestors": [
-        {
-          "id": "60522700",
-          "title": "LCMS/LMS FSEL Document"
-        },
-        {
-          "id": "60522720",
-          "title": "LMS Admin"
-        },
-        {
-          "id": "85852282",
-          "title": "FSEL Portal"
-        },
-        {
-          "id": "85853880",
-          "title": "Happy Index"
-        },
-        {
-          "id": "110985436",
-          "title": "CR - Tự động nhận diện, phân loại và điều phối báo lỗi bằng Machine Learning"
-        }
-      ],
-      "jira_keys": [],
-      "links": [],
-      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985751",
-      "verification": "pending Jira/source matching"
-    },
-    {
-      "id": "110985771",
-      "title": "5. Cấu hình điều phối",
-      "created": "2026-11-16T15:23:31.700+07:00",
-      "ancestors": [
-        {
-          "id": "60522700",
-          "title": "LCMS/LMS FSEL Document"
-        },
-        {
-          "id": "60522720",
-          "title": "LMS Admin"
-        },
-        {
-          "id": "85852282",
-          "title": "FSEL Portal"
-        },
-        {
-          "id": "85853880",
-          "title": "Happy Index"
-        },
-        {
-          "id": "110985436",
-          "title": "CR - Tự động nhận diện, phân loại và điều phối báo lỗi bằng Machine Learning"
-        }
-      ],
-      "jira_keys": [],
-      "links": [],
-      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985771",
-      "verification": "pending Jira/source matching"
-    },
-    {
-      "id": "110985947",
-      "title": "[FSEL CAMPUS] Bổ sung cấu phần tiến độ tổng/ tiến độ tuần hiển thị trên LMS",
-      "created": "2026-11-20T18:21:43.657+07:00",
-      "ancestors": [
-        {
-          "id": "60522700",
-          "title": "LCMS/LMS FSEL Document"
-        },
-        {
-          "id": "60523438",
-          "title": "Fsel InSchool"
-        }
-      ],
-      "jira_keys": [],
-      "links": [],
-      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985947",
-      "verification": "pending Jira/source matching"
+      "version": 8,
+      "verification": "pending source linkage"
     },
     {
       "id": "110985979",
       "title": "FSEL Campus - Giới hạn tiến độ hoàn thành bài học",
-      "created": "2026-11-20T20:02:20.802+07:00",
-      "ancestors": [
-        {
-          "id": "60522700",
-          "title": "LCMS/LMS FSEL Document"
-        },
-        {
-          "id": "60522701",
-          "title": "LCMS/LMS"
-        }
-      ],
-      "jira_keys": [],
-      "links": [],
-      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985979",
-      "verification": "pending Jira/source matching"
-    },
-    {
-      "id": "110985981",
-      "title": "[LCMS] Cấu hình hệ thống tự động cảnh báo thời gian hoàn thành cấu phần học tập của học sinh",
-      "created": "2026-11-20T20:02:35.945+07:00",
-      "ancestors": [
-        {
-          "id": "60522700",
-          "title": "LCMS/LMS FSEL Document"
-        },
-        {
-          "id": "60522701",
-          "title": "LCMS/LMS"
-        },
-        {
-          "id": "110985979",
-          "title": "FSEL Campus - Giới hạn tiến độ hoàn thành bài học"
-        }
-      ],
-      "jira_keys": [
-        "FSEL-8508"
-      ],
-      "links": [],
-      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985981",
-      "verification": "pending Jira/source matching"
-    },
-    {
-      "id": "110985995",
-      "title": "[LMS] Hệ thống tự động cảnh báo thời gian hoàn thành cấu phần học tập của học sinh",
-      "created": "2026-11-20T20:45:12.866+07:00",
-      "ancestors": [
-        {
-          "id": "60522700",
-          "title": "LCMS/LMS FSEL Document"
-        },
-        {
-          "id": "60522701",
-          "title": "LCMS/LMS"
-        },
-        {
-          "id": "110985979",
-          "title": "FSEL Campus - Giới hạn tiến độ hoàn thành bài học"
-        }
-      ],
-      "jira_keys": [
-        "FSEL-8508",
-        "FSEL-8583"
-      ],
-      "links": [],
-      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985995",
-      "verification": "pending Jira/source matching"
+      "version": 1,
+      "verification": "pending source linkage"
     },
     {
       "id": "110986006",
       "title": "[LMS Admin] Cấu hình giới hạn bài học tối đa, cảnh báo tiến độ bất thường và khóa tài khoản học sinh theo tuần",
-      "created": "2026-11-21T10:41:01.853+07:00",
-      "ancestors": [
-        {
-          "id": "60522700",
-          "title": "LCMS/LMS FSEL Document"
-        },
-        {
-          "id": "60522701",
-          "title": "LCMS/LMS"
-        },
-        {
-          "id": "110985979",
-          "title": "FSEL Campus - Giới hạn tiến độ hoàn thành bài học"
-        }
-      ],
-      "jira_keys": [],
-      "links": [],
-      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110986006",
-      "verification": "pending Jira/source matching"
+      "version": 1,
+      "verification": "pending source linkage"
     },
     {
       "id": "110986026",
       "title": "[LMS] Cảnh báo và khóa tài khoản",
-      "created": "2026-11-21T11:49:19.294+07:00",
-      "ancestors": [
-        {
-          "id": "60522700",
-          "title": "LCMS/LMS FSEL Document"
-        },
-        {
-          "id": "60522701",
-          "title": "LCMS/LMS"
-        },
-        {
-          "id": "110985979",
-          "title": "FSEL Campus - Giới hạn tiến độ hoàn thành bài học"
-        }
-      ],
-      "jira_keys": [],
-      "links": [],
-      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110986026",
-      "verification": "pending Jira/source matching"
+      "version": 1,
+      "verification": "pending source linkage"
     }
   ],
   "seen_issue_keys": [
     "FHI-255",
-    "FHI-256"
+    "FHI-256",
+    "FHI-245",
+    "FHI-246",
+    "FHI-247",
+    "FHI-248",
+    "FHI-249",
+    "FHI-250",
+    "FHI-251",
+    "FHI-252",
+    "FHI-253",
+    "FHI-254",
+    "FHI-257",
+    "FHI-258",
+    "FHI-259",
+    "FHI-260",
+    "FSLP-843",
+    "FSLP-844",
+    "FSLP-845",
+    "FSLP-846",
+    "FSLP-847",
+    "FSLP-848",
+    "FSLP-849",
+    "FSLP-850",
+    "FSLP-851",
+    "FSLP-852",
+    "FSLP-853",
+    "FSLP-854",
+    "FSLP-855",
+    "FSLP-862",
+    "FSLP-856",
+    "FSLP-857",
+    "FSLP-858",
+    "FSLP-859",
+    "FSLP-860",
+    "FSLP-861",
+    "FSLP-863",
+    "FSLP-864",
+    "FSLP-865",
+    "FSLP-866",
+    "FSLP-867",
+    "FSLP-868",
+    "FSLP-869",
+    "FSLP-870",
+    "FSLP-871",
+    "FSLP-872",
+    "FSLP-873",
+    "FSLP-874",
+    "FSLP-875",
+    "FSLP-876",
+    "FSLP-877",
+    "FSLP-878",
+    "FSLP-879",
+    "FSLP-880",
+    "FSLP-881",
+    "FSLP-882",
+    "FSLP-883",
+    "FSLP-884",
+    "FSLP-885",
+    "FSLP-886",
+    "FSLP-888",
+    "FSLP-889",
+    "FSLP-890",
+    "FSLP-891",
+    "FSLP-892",
+    "FSLP-893",
+    "FSLP-894",
+    "FSLP-895",
+    "FSLP-896",
+    "FSLP-897",
+    "FSLP-898",
+    "FSLP-899",
+    "FSLP-900",
+    "FSLP-901",
+    "FSLP-902",
+    "FSLP-903",
+    "FSLP-904",
+    "FSLP-905",
+    "FSLP-906",
+    "FSLP-907",
+    "FSLP-908",
+    "FSLP-909",
+    "FSLP-910",
+    "FSLP-911",
+    "FSLP-912",
+    "FSLP-913",
+    "FSLP-916",
+    "FSLP-917",
+    "FSLP-918",
+    "FSLP-919",
+    "FSLP-920",
+    "FSLP-921",
+    "FSLP-922",
+    "FSLP-923",
+    "FSLP-924",
+    "FSLP-925",
+    "FSLP-926",
+    "FSLP-927",
+    "FSLP-928",
+    "FSLP-929",
+    "FSLP-930",
+    "FSLP-931",
+    "FSLP-932",
+    "FSLP-933",
+    "FSLP-934",
+    "FSLP-935",
+    "FSLP-936",
+    "FSLP-937",
+    "FSLP-938",
+    "FSLP-939",
+    "FSLP-940",
+    "FSLP-941",
+    "FSLP-942",
+    "FSLP-943",
+    "FSLP-944",
+    "FSLP-945",
+    "FSLP-946",
+    "FSLP-947",
+    "FSLP-948",
+    "FSLP-949",
+    "FSLP-950",
+    "FSLP-951",
+    "FSLP-971",
+    "FSLP-972",
+    "FSLP-973",
+    "FSLP-974",
+    "FSLP-976",
+    "FSLP-977",
+    "FSLP-979",
+    "FSLP-980",
+    "FSLP-981",
+    "FSLP-982",
+    "FSLP-983",
+    "FSLP-984",
+    "FSLP-985",
+    "FSLP-986",
+    "FSLP-987",
+    "FSLP-991",
+    "FSLP-992",
+    "FSLP-993",
+    "FSLP-994",
+    "FSLP-995",
+    "FSLP-996",
+    "FSLP-997",
+    "FSLP-998",
+    "FSLP-999",
+    "FSLP-1000",
+    "FSLP-1001",
+    "FSLP-1002",
+    "FSLP-1003",
+    "FSLP-1004",
+    "FSLP-1005",
+    "FSLP-1006",
+    "FSLP-1007",
+    "FSLP-1008",
+    "FSLP-1009",
+    "FSLP-1010",
+    "FSLP-1011",
+    "FSLP-1012",
+    "FSLP-1013",
+    "FSLP-1014",
+    "FSLP-1015",
+    "FSLP-1016",
+    "FSLP-1017",
+    "FSLP-1018",
+    "FSLP-1019",
+    "FSLP-1020",
+    "FSLP-1021",
+    "FSLP-1022",
+    "FSLP-1023",
+    "FSLP-1024",
+    "FSLP-1025",
+    "FSLP-1026",
+    "FSLP-1027",
+    "FSLP-1028",
+    "FSLP-1029",
+    "FSLP-1030",
+    "FSLP-1031",
+    "FSLP-1033",
+    "FSLP-1034",
+    "FSLP-1035",
+    "FSLP-1036",
+    "FSLP-1037",
+    "FSLP-1038",
+    "FSLP-1039",
+    "FSLP-1040",
+    "FSLP-1041",
+    "FSLP-1042",
+    "FSLP-1043",
+    "FSLP-1044",
+    "FSLP-1045",
+    "FSLP-1046",
+    "FSLP-1047",
+    "FSLP-1048",
+    "FSLP-1049",
+    "FSLP-1050",
+    "FSLP-1051",
+    "FSLP-1052",
+    "FSLP-1053",
+    "FSLP-1055",
+    "FSLP-1056",
+    "FSLP-1057",
+    "FSLP-1058",
+    "FSLP-1059",
+    "FSLP-1060",
+    "FSLP-1061",
+    "FSLP-1062",
+    "FSLP-1063",
+    "FSLP-1065",
+    "FSLP-1066",
+    "FSLP-1067",
+    "FSLP-1068",
+    "FSLP-1069",
+    "FSLP-1070",
+    "FSLP-1071",
+    "FSLP-1072",
+    "FSLP-1073",
+    "FSLP-1074",
+    "FSLP-1075",
+    "FSLP-1076",
+    "FSLP-1077",
+    "FSLP-1078",
+    "FSLP-1079",
+    "FSLP-1080",
+    "FSLP-1081",
+    "FSLP-1082",
+    "FSLP-1083",
+    "FSLP-1084",
+    "FSLP-1085",
+    "FSLP-1086",
+    "FSLP-1087",
+    "FSLP-1088",
+    "FSLP-1089",
+    "FSLP-1090",
+    "FSLP-1091",
+    "FSLP-1092",
+    "FSLP-1093",
+    "FSLP-1094",
+    "FSLP-1095",
+    "FSLP-1096",
+    "FSLP-1097",
+    "FSLP-1098",
+    "FSLP-1099",
+    "FSLP-1100",
+    "FSLP-1101",
+    "FSLP-1102",
+    "FSLP-1103",
+    "FSLP-1104",
+    "FSLP-1105",
+    "FSLP-1106",
+    "FSLP-1107",
+    "FSLP-1108",
+    "FSLP-1109",
+    "FSLP-1110",
+    "FSLP-1111",
+    "FSLP-1112",
+    "FSLP-1113",
+    "FSLP-1114",
+    "FSLP-1115",
+    "FSLP-1116",
+    "FSLP-1117",
+    "FSLP-1118",
+    "FSLP-1119",
+    "FSLP-1120",
+    "FSLP-1222",
+    "FSLP-1223",
+    "FSLP-1224",
+    "FSLP-1225",
+    "FSLP-1226",
+    "FSLP-1227",
+    "FSLP-1228",
+    "FSLP-1229",
+    "FSLP-1230",
+    "FSLP-1231",
+    "FSLP-1232",
+    "FSLP-1233",
+    "FSLP-1234",
+    "FSLP-1235",
+    "FSLP-1236",
+    "FSLP-1237",
+    "FSLP-1238",
+    "FSLP-1239",
+    "FSLP-1240",
+    "FSLP-1241",
+    "FSLP-1242",
+    "FSLP-1243",
+    "FSLP-1244",
+    "FSLP-1245",
+    "FSLP-1246",
+    "FSLP-1247",
+    "FSLP-1248",
+    "FSLP-1249",
+    "FSLP-1251",
+    "FSLP-1252",
+    "FSLP-1253",
+    "FSLP-1254",
+    "FSLP-1255",
+    "FSLP-1256",
+    "FSLP-1257",
+    "FSLP-1258",
+    "FSLP-1259",
+    "FSLP-1260",
+    "FSLP-1261",
+    "FSLP-1262",
+    "FSLP-1263",
+    "FSLP-1264",
+    "FSLP-1265",
+    "FSLP-1266",
+    "FSLP-1267",
+    "FSLP-1268",
+    "FSLP-1269",
+    "FSLP-1270",
+    "FSLP-1271",
+    "FSLP-1272",
+    "FSLP-1274",
+    "FSLP-1275",
+    "FSLP-1276",
+    "FSLP-1277",
+    "FSLP-1278",
+    "FSLP-1279",
+    "FSLP-1280",
+    "FSLP-1281",
+    "FSLP-1282",
+    "FSLP-1283",
+    "FSLP-1284",
+    "FSLP-1285",
+    "FSLP-1286",
+    "FSLP-1287",
+    "FSLP-1288",
+    "FSLP-1289",
+    "FSLP-1290",
+    "FSLP-1291",
+    "FSLP-1292",
+    "FSLP-1293",
+    "FSLP-1294",
+    "FSLP-1295",
+    "FSLP-1296",
+    "FSLP-1297",
+    "FSLP-1298",
+    "FSLP-1299",
+    "FSLP-1300",
+    "FSLP-1301",
+    "FSLP-1302",
+    "FSLP-1303",
+    "FSLP-1304",
+    "FSLP-1305",
+    "FSLP-1306",
+    "FSLP-1307",
+    "FSLP-1308",
+    "FSLP-1309",
+    "FSLP-1310",
+    "FSLP-1311",
+    "FSLP-1312",
+    "FSLP-1313",
+    "FSLP-1314",
+    "FSLP-1315",
+    "FSLP-1316",
+    "FSLP-1317",
+    "FSLP-1318",
+    "FSLP-1319",
+    "FSLP-1320",
+    "FSLP-1321",
+    "FSLP-1322",
+    "FSLP-1323",
+    "FSLP-1324",
+    "FSLP-1325",
+    "FSLP-1326",
+    "FSLP-1327",
+    "FSLP-1328",
+    "FSLP-1329",
+    "FSLP-1330",
+    "FSLP-1331",
+    "FSLP-1332",
+    "FSLP-1334",
+    "FSLP-1335",
+    "FSLP-1336",
+    "FSLP-1337",
+    "FSLP-1338",
+    "FSLP-1339",
+    "FSLP-1340",
+    "FSLP-1341",
+    "FSLP-1342",
+    "FSLP-1343",
+    "FSLP-1344",
+    "FSLP-1345",
+    "FSLP-1346",
+    "FSLP-1347",
+    "FSLP-1348",
+    "FSLP-1349",
+    "FSLP-1350",
+    "FSLP-1351",
+    "FSLP-1352",
+    "FSLP-1353",
+    "FSLP-1354",
+    "FSLP-1355",
+    "FSLP-1356",
+    "FSLP-1357",
+    "FSLP-1359",
+    "FSLP-1360",
+    "FSLP-1361",
+    "FSLP-1362",
+    "FSLP-1363",
+    "FSLP-1364",
+    "FSLP-1365",
+    "FSLP-1366",
+    "FSLP-1367",
+    "FSLP-1368",
+    "FSLP-1369",
+    "FSLP-1370",
+    "FSLP-1371",
+    "FSLP-1372",
+    "FSLP-1373",
+    "FSLP-1374",
+    "FSLP-1375",
+    "FSLP-1376",
+    "FSLP-1377",
+    "FSLP-1378",
+    "FSLP-1379",
+    "FSLP-1380",
+    "FSLP-1382",
+    "FSLP-1383",
+    "FSLP-1384",
+    "FSLP-1385",
+    "FSLP-1386",
+    "FSLP-1387",
+    "FSLP-1388",
+    "FSLP-1389",
+    "FSLP-1390",
+    "FSLP-1391",
+    "FSLP-1392",
+    "FSLP-1393",
+    "FSLP-1394",
+    "FSLP-1395",
+    "FSLP-1396",
+    "FSLP-1397",
+    "FSLP-1398",
+    "FSLP-1399",
+    "FSLP-1400",
+    "FSLP-1401",
+    "FSLP-1402",
+    "FSLP-1403",
+    "FSLP-1404",
+    "FSLP-1405",
+    "FSLP-1406",
+    "FSLP-1407",
+    "FSLP-1408",
+    "FSLP-1409",
+    "FSLP-1410",
+    "FSLP-1411",
+    "FSLP-1412",
+    "FSLP-1413",
+    "FSLP-1414",
+    "FSLP-1415",
+    "FSLP-1416",
+    "FSLP-1417",
+    "FSLP-1418",
+    "FSLP-1419",
+    "FSLP-1420",
+    "FSLP-1421",
+    "FSLP-1422",
+    "FSLP-1423",
+    "FSLP-1424",
+    "FSLP-1425",
+    "FSLP-1426",
+    "FSLP-1427",
+    "FSLP-1428",
+    "FSLP-1429",
+    "FSLP-1430",
+    "FSLP-1431",
+    "FSLP-1432",
+    "FSLP-1433",
+    "FSLP-1434",
+    "FSLP-1435",
+    "FSLP-1436",
+    "FSLP-1437",
+    "FSLP-1438",
+    "FSLP-1439",
+    "FSLP-1440",
+    "FSLP-1441",
+    "FSLP-1442",
+    "FSLP-1443",
+    "FSLP-1444",
+    "FSLP-1445",
+    "FSLP-1446",
+    "FSLP-1447",
+    "FSLP-1448",
+    "FSLP-1449",
+    "FSLP-1450",
+    "FSLP-1451",
+    "FSLP-1452",
+    "FSLP-1453",
+    "FSLP-1454",
+    "FSLP-1455",
+    "FSLP-1456",
+    "FSLP-1457",
+    "FSLP-1458",
+    "FSLP-1459",
+    "FSLP-1460",
+    "FSLP-1461",
+    "FSLP-1462",
+    "FSLP-1463",
+    "FSLP-1464",
+    "FSLP-1465",
+    "FSLP-1466",
+    "FSLP-1467",
+    "FSLP-1468",
+    "FSLP-1469",
+    "FSLP-1470",
+    "FSLP-1471",
+    "FSLP-1472",
+    "FSLP-1473",
+    "FSLP-1474",
+    "FSLP-1475",
+    "FSLP-1476",
+    "FSLP-1477",
+    "FSLP-1478",
+    "FSLP-1479",
+    "FSLP-1480",
+    "FSLP-1481",
+    "FSLP-1482",
+    "FSLP-1483",
+    "FSLP-1484",
+    "FSLP-1485",
+    "FSLP-1486",
+    "FSLP-1487",
+    "FSLP-1488",
+    "FSLP-1489",
+    "FSLP-1490",
+    "FSLP-1491",
+    "FSLP-1492",
+    "FSLP-1493",
+    "FSLP-1494",
+    "FSLP-1495",
+    "FSLP-1496",
+    "FSLP-1497",
+    "FSLP-1498",
+    "FSLP-1499",
+    "FSLP-1500",
+    "FSLP-1501",
+    "FSLP-1502",
+    "FSLP-1503",
+    "FSLP-1504",
+    "FSLP-1505",
+    "FSLP-1506",
+    "FSLP-1507",
+    "FSLP-1508",
+    "FSLP-1509",
+    "FSLP-1510",
+    "FSLP-1511",
+    "FSLP-1515",
+    "FSLP-1516",
+    "FSLP-1517",
+    "FSLP-1518",
+    "FSLP-1519",
+    "FSLP-1520",
+    "FSLP-1521",
+    "FSLP-1522",
+    "FSLP-1523",
+    "FSLP-1524",
+    "FSLP-1525",
+    "FSLP-1526",
+    "FSLP-1527",
+    "FSLP-1528",
+    "FSLP-1529",
+    "FSLP-1530",
+    "FSLP-1531",
+    "FSLP-1532",
+    "FSLP-1533",
+    "FSLP-1534",
+    "FSLP-1535",
+    "FSLP-1536",
+    "FSLP-1537",
+    "FSLP-1538",
+    "FSLP-1539",
+    "FSLP-1540",
+    "FSLP-1541",
+    "FSLP-1542",
+    "FSLP-1543",
+    "FSLP-1544",
+    "FSLP-1545",
+    "FSLP-1546",
+    "FSLP-1547",
+    "FSLP-1548",
+    "FSLP-1549",
+    "FSLP-1550",
+    "FSLP-1551",
+    "FSLP-1552",
+    "FSLP-1553",
+    "FSLP-1554",
+    "FSLP-1555",
+    "FSLP-1556",
+    "FSLP-1557",
+    "FSLP-1558",
+    "FSLP-1559",
+    "FSLP-1560",
+    "FSLP-1561",
+    "FSLP-1562",
+    "FSLP-1563",
+    "FSLP-1564",
+    "FSLP-1565",
+    "FSLP-1566",
+    "FSLP-1567",
+    "FSLP-1568",
+    "FSLP-1569",
+    "FSLP-1570",
+    "FSLP-1571",
+    "FSLP-1572",
+    "FSLP-1573",
+    "FSLP-1574",
+    "FSLP-1575",
+    "FSLP-1576",
+    "FSLP-1577",
+    "FSLP-1578",
+    "FSLP-1579",
+    "FSLP-1580",
+    "FSLP-1581",
+    "FSLP-1582",
+    "FSLP-1583",
+    "FSLP-1584",
+    "FSLP-1585",
+    "FSLP-1586",
+    "FSLP-1587",
+    "FSLP-1588",
+    "FSLP-1589",
+    "FSLP-1590",
+    "FSLP-1591",
+    "FSLP-1592",
+    "FSLP-1593",
+    "FSLP-1594",
+    "FSLP-1595",
+    "FSLP-1596",
+    "FSLP-1597",
+    "FSLP-1598",
+    "FSLP-1599",
+    "FSLP-1600",
+    "FSLP-1601",
+    "FSLP-1602",
+    "FSLP-1603",
+    "FSLP-1604",
+    "FSLP-1605",
+    "FSLP-1606",
+    "FSLP-1607",
+    "FSLP-1608",
+    "FSLP-1609",
+    "FSLP-1610",
+    "FSLP-1611",
+    "FSLP-1612",
+    "FSLP-1613",
+    "FSLP-1614",
+    "FSLP-1615",
+    "FSLP-1616",
+    "FSLP-1617",
+    "FSLP-1618",
+    "FSLP-1619",
+    "FSLP-1620",
+    "FSLP-1621",
+    "FSLP-1622",
+    "FSLP-1623",
+    "FSLP-1624",
+    "FSLP-1625",
+    "FSLP-1626",
+    "FSLP-1627",
+    "FSLP-1628",
+    "FSLP-1629",
+    "FSLP-1630",
+    "FSLP-1631",
+    "FSLP-1632",
+    "FSLP-1633",
+    "FSLP-1634",
+    "FSLP-1635",
+    "FSLP-1636",
+    "FSLP-1637",
+    "FSLP-1638",
+    "FSLP-1639",
+    "FSLP-1640",
+    "FSLP-1641",
+    "FSLP-1642",
+    "FSLP-1643",
+    "FSLP-1644",
+    "FSLP-1645",
+    "FSLP-1646",
+    "FSLP-1647",
+    "FSLP-1648",
+    "FSLP-1649",
+    "FSLP-1650",
+    "FSLP-1651",
+    "FSLP-1652",
+    "FSLP-1653",
+    "FSLP-1654",
+    "FSLP-1655",
+    "FSLP-1656",
+    "FSLP-1657",
+    "FSLP-1658",
+    "FSLP-1659",
+    "FSLP-1660",
+    "FSLP-1661",
+    "FSLP-1662",
+    "FSLP-1663",
+    "FSLP-1664",
+    "FSLP-1665",
+    "FSLP-1666",
+    "FSLP-1667",
+    "FSLP-1668",
+    "FSLP-1669",
+    "FSLP-1670",
+    "FSLP-1671",
+    "FSLP-1672",
+    "FSLP-1673",
+    "FSLP-1674",
+    "FSLP-1675",
+    "FSLP-1676",
+    "FSLP-1677",
+    "FSLP-1678",
+    "FSLP-1679",
+    "FSLP-1680",
+    "FSLP-1681",
+    "FSLP-1682",
+    "FSLP-1683",
+    "FSLP-1684",
+    "FSLP-1685",
+    "FSLP-1686",
+    "FSLP-1687",
+    "FSLP-1688",
+    "FSLP-1689",
+    "FSLP-1690",
+    "FSLP-1691",
+    "FSLP-1692",
+    "FSLP-1693",
+    "FSLP-1694",
+    "FSLP-1695",
+    "FSLP-1696",
+    "FSLP-1697",
+    "FSLP-1698",
+    "FSLP-1699",
+    "FSLP-1700",
+    "FSLP-1701",
+    "FSLP-1702",
+    "FSLP-1703",
+    "FSLP-1704",
+    "FSLP-1705",
+    "FSLP-1706",
+    "FSLP-1707",
+    "FSLP-1708",
+    "FSLP-1709",
+    "FSLP-1710",
+    "FSLP-1711",
+    "FSLP-1712",
+    "FSLP-1713",
+    "FSLP-1714",
+    "FSLP-1715",
+    "FSLP-1716",
+    "FSLP-1717",
+    "FSLP-1718",
+    "FSLP-1719",
+    "FSLP-1720",
+    "FSLP-1721",
+    "FSLP-1722",
+    "FSLP-1723",
+    "FSLP-1724",
+    "FSLP-1725",
+    "FSLP-1726",
+    "FSLP-1727",
+    "FSLP-1728",
+    "FSLP-1729",
+    "FSLP-1730",
+    "FSLP-1731",
+    "FSLP-1732",
+    "FSLP-1733",
+    "FSLP-1734",
+    "FSLP-1735",
+    "FSLP-1736",
+    "FSLP-1737",
+    "FSLP-1738",
+    "FSLP-1739",
+    "FSLP-1740",
+    "FSLP-1741",
+    "FSLP-1742",
+    "FSLP-1743",
+    "FSLP-1744",
+    "FSLP-1745",
+    "FSLP-1746",
+    "FSLP-1747",
+    "FSLP-1748"
   ],
   "seen_page_ids": [
-    "110985733"
+    "110985733",
+    "110985438",
+    "110985451",
+    "110985727",
+    "110985751",
+    "110985771",
+    "85860343",
+    "110985599",
+    "85860845",
+    "85860960",
+    "110985303",
+    "110985384",
+    "110985360",
+    "110985481",
+    "110985533",
+    "110985678",
+    "110985626",
+    "110985981",
+    "110985995",
+    "110985947"
   ],
   "gaps": [
     "FHI and FSLP also occur in existing graph; complete project scans before watermark advancement.",
     "FSEL-8508 and FSEL-8583 are references in new pages, not evidence that those issues implement the pages."
-  ]
+  ],
+  "backfill": {
+    "from": "2026-10-20T00:00:00+07:00",
+    "scanned_through": "2026-11-26T11:30:00+07:00",
+    "jira_projects": [
+      "FSEL",
+      "FHI",
+      "FSLP"
+    ],
+    "wiki_spaces": [
+      "FD",
+      "LFD"
+    ]
+  }
 }
