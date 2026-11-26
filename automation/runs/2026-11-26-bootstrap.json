@@ -1,0 +1,24 @@
+{
+  "run_at": "2026-11-26T11:26:36+07:00",
+  "status": "partial",
+  "added_verified_pairs": [
+    {
+      "jira_key": "FHI-255",
+      "page_id": "110985733",
+      "page_version": 5,
+      "issue_status": "Canceled",
+      "evidence": "issue description explicitly links pageId=110985733"
+    },
+    {
+      "jira_key": "FHI-256",
+      "page_id": "110985733",
+      "page_version": 5,
+      "issue_status": "Canceled",
+      "evidence": "issue description explicitly links pageId=110985733"
+    }
+  ],
+  "node_count": 703,
+  "edge_count": 1192,
+  "pending_page_count": 11,
+  "watermark_advanced": false
+}

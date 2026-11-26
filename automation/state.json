@@ -1,0 +1,311 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-26T11:26:36+07:00",
+  "successful_scan_watermark": null,
+  "initial_baseline": "2026-11-12T00:00:00+07:00",
+  "connector_timezone": "unconfirmed",
+  "jira_projects": [
+    "FSEL",
+    "FHI",
+    "FSLP"
+  ],
+  "wiki_spaces": [
+    "FD",
+    "LFD"
+  ],
+  "verified_pairs": [
+    {
+      "jira_key": "FHI-255",
+      "page_id": "110985733",
+      "page_version": 5,
+      "issue_status": "Canceled",
+      "evidence": "issue description explicitly links pageId=110985733"
+    },
+    {
+      "jira_key": "FHI-256",
+      "page_id": "110985733",
+      "page_version": 5,
+      "issue_status": "Canceled",
+      "evidence": "issue description explicitly links pageId=110985733"
+    }
+  ],
+  "pending_pages": [
+    {
+      "id": "110985677",
+      "title": "[LCMS] Bổ sung chức năng Import bài Test từ file Excel trong Test Config",
+      "created": "2026-11-12T16:15:23.704+07:00",
+      "ancestors": [
+        {
+          "id": "60522700",
+          "title": "LCMS/LMS FSEL Document"
+        },
+        {
+          "id": "60522701",
+          "title": "LCMS/LMS"
+        }
+      ],
+      "jira_keys": [],
+      "links": [],
+      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985677",
+      "verification": "pending Jira/source matching"
+    },
+    {
+      "id": "110985678",
+      "title": "[LMS Admin Campus] Tổng hợp điểm quá trình, xét điều kiện dự thi và tính điểm học phần",
+      "created": "2026-11-12T16:19:06.753+07:00",
+      "ancestors": [
+        {
+          "id": "60522700",
+          "title": "LCMS/LMS FSEL Document"
+        },
+        {
+          "id": "60523438",
+          "title": "Fsel InSchool"
+        }
+      ],
+      "jira_keys": [],
+      "links": [],
+      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985678",
+      "verification": "pending Jira/source matching"
+    },
+    {
+      "id": "110985727",
+      "title": "CR - Quản lý ticket",
+      "created": "2026-11-16T14:22:10.167+07:00",
+      "ancestors": [
+        {
+          "id": "60522700",
+          "title": "LCMS/LMS FSEL Document"
+        },
+        {
+          "id": "60522720",
+          "title": "LMS Admin"
+        },
+        {
+          "id": "85852282",
+          "title": "FSEL Portal"
+        },
+        {
+          "id": "85853880",
+          "title": "Happy Index"
+        },
+        {
+          "id": "85854637",
+          "title": "9. Quản lý ticket"
+        }
+      ],
+      "jira_keys": [],
+      "links": [],
+      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985727",
+      "verification": "pending Jira/source matching"
+    },
+    {
+      "id": "110985751",
+      "title": "4. Sự cố (Incident)",
+      "created": "2026-11-16T15:15:47.507+07:00",
+      "ancestors": [
+        {
+          "id": "60522700",
+          "title": "LCMS/LMS FSEL Document"
+        },
+        {
+          "id": "60522720",
+          "title": "LMS Admin"
+        },
+        {
+          "id": "85852282",
+          "title": "FSEL Portal"
+        },
+        {
+          "id": "85853880",
+          "title": "Happy Index"
+        },
+        {
+          "id": "110985436",
+          "title": "CR - Tự động nhận diện, phân loại và điều phối báo lỗi bằng Machine Learning"
+        }
+      ],
+      "jira_keys": [],
+      "links": [],
+      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985751",
+      "verification": "pending Jira/source matching"
+    },
+    {
+      "id": "110985771",
+      "title": "5. Cấu hình điều phối",
+      "created": "2026-11-16T15:23:31.700+07:00",
+      "ancestors": [
+        {
+          "id": "60522700",
+          "title": "LCMS/LMS FSEL Document"
+        },
+        {
+          "id": "60522720",
+          "title": "LMS Admin"
+        },
+        {
+          "id": "85852282",
+          "title": "FSEL Portal"
+        },
+        {
+          "id": "85853880",
+          "title": "Happy Index"
+        },
+        {
+          "id": "110985436",
+          "title": "CR - Tự động nhận diện, phân loại và điều phối báo lỗi bằng Machine Learning"
+        }
+      ],
+      "jira_keys": [],
+      "links": [],
+      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985771",
+      "verification": "pending Jira/source matching"
+    },
+    {
+      "id": "110985947",
+      "title": "[FSEL CAMPUS] Bổ sung cấu phần tiến độ tổng/ tiến độ tuần hiển thị trên LMS",
+      "created": "2026-11-20T18:21:43.657+07:00",
+      "ancestors": [
+        {
+          "id": "60522700",
+          "title": "LCMS/LMS FSEL Document"
+        },
+        {
+          "id": "60523438",
+          "title": "Fsel InSchool"
+        }
+      ],
+      "jira_keys": [],
+      "links": [],
+      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985947",
+      "verification": "pending Jira/source matching"
+    },
+    {
+      "id": "110985979",
+      "title": "FSEL Campus - Giới hạn tiến độ hoàn thành bài học",
+      "created": "2026-11-20T20:02:20.802+07:00",
+      "ancestors": [
+        {
+          "id": "60522700",
+          "title": "LCMS/LMS FSEL Document"
+        },
+        {
+          "id": "60522701",
+          "title": "LCMS/LMS"
+        }
+      ],
+      "jira_keys": [],
+      "links": [],
+      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985979",
+      "verification": "pending Jira/source matching"
+    },
+    {
+      "id": "110985981",
+      "title": "[LCMS] Cấu hình hệ thống tự động cảnh báo thời gian hoàn thành cấu phần học tập của học sinh",
+      "created": "2026-11-20T20:02:35.945+07:00",
+      "ancestors": [
+        {
+          "id": "60522700",
+          "title": "LCMS/LMS FSEL Document"
+        },
+        {
+          "id": "60522701",
+          "title": "LCMS/LMS"
+        },
+        {
+          "id": "110985979",
+          "title": "FSEL Campus - Giới hạn tiến độ hoàn thành bài học"
+        }
+      ],
+      "jira_keys": [
+        "FSEL-8508"
+      ],
+      "links": [],
+      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985981",
+      "verification": "pending Jira/source matching"
+    },
+    {
+      "id": "110985995",
+      "title": "[LMS] Hệ thống tự động cảnh báo thời gian hoàn thành cấu phần học tập của học sinh",
+      "created": "2026-11-20T20:45:12.866+07:00",
+      "ancestors": [
+        {
+          "id": "60522700",
+          "title": "LCMS/LMS FSEL Document"
+        },
+        {
+          "id": "60522701",
+          "title": "LCMS/LMS"
+        },
+        {
+          "id": "110985979",
+          "title": "FSEL Campus - Giới hạn tiến độ hoàn thành bài học"
+        }
+      ],
+      "jira_keys": [
+        "FSEL-8508",
+        "FSEL-8583"
+      ],
+      "links": [],
+      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110985995",
+      "verification": "pending Jira/source matching"
+    },
+    {
+      "id": "110986006",
+      "title": "[LMS Admin] Cấu hình giới hạn bài học tối đa, cảnh báo tiến độ bất thường và khóa tài khoản học sinh theo tuần",
+      "created": "2026-11-21T10:41:01.853+07:00",
+      "ancestors": [
+        {
+          "id": "60522700",
+          "title": "LCMS/LMS FSEL Document"
+        },
+        {
+          "id": "60522701",
+          "title": "LCMS/LMS"
+        },
+        {
+          "id": "110985979",
+          "title": "FSEL Campus - Giới hạn tiến độ hoàn thành bài học"
+        }
+      ],
+      "jira_keys": [],
+      "links": [],
+      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110986006",
+      "verification": "pending Jira/source matching"
+    },
+    {
+      "id": "110986026",
+      "title": "[LMS] Cảnh báo và khóa tài khoản",
+      "created": "2026-11-21T11:49:19.294+07:00",
+      "ancestors": [
+        {
+          "id": "60522700",
+          "title": "LCMS/LMS FSEL Document"
+        },
+        {
+          "id": "60522701",
+          "title": "LCMS/LMS"
+        },
+        {
+          "id": "110985979",
+          "title": "FSEL Campus - Giới hạn tiến độ hoàn thành bài học"
+        }
+      ],
+      "jira_keys": [],
+      "links": [],
+      "url": "https://wiki.fsel.edu.vn/pages/viewpage.action?pageId=110986026",
+      "verification": "pending Jira/source matching"
+    }
+  ],
+  "seen_issue_keys": [
+    "FHI-255",
+    "FHI-256"
+  ],
+  "seen_page_ids": [
+    "110985733"
+  ],
+  "gaps": [
+    "FHI and FSLP also occur in existing graph; complete project scans before watermark advancement.",
+    "FSEL-8508 and FSEL-8583 are references in new pages, not evidence that those issues implement the pages."
+  ]
+}
