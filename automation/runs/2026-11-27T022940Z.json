@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-11-27T02:28:00Z",
+  "status": "incomplete",
+  "github_canonical_read": true,
+  "jira": {
+    "total": 810,
+    "read": 50,
+    "pagination_complete": false
+  },
+  "confluence": {
+    "total": 44,
+    "pagination_complete": true
+  },
+  "unverified_new_page_ids": [
+    "110986036",
+    "110986053"
+  ],
+  "watermark_advanced": false,
+  "graph_changed": false,
+  "pending_preserved": true,
+  "gaps": [
+    "Jira pagination and source verification not completed in this run; pending pages not revalidated. No conclusion of zero new pairs."
+  ],
+  "baseline_commit": "dfd9972b109532b8b10af0603311fb8e750f81be"
+}
