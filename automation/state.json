@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T11:33:00+07:00",
-  "successful_scan_watermark": null,
+  "updated_at": "2026-11-27T08:06:02.693Z",
+  "successful_scan_watermark": "2026-11-27T08:02:33.316Z",
   "initial_baseline": "2026-10-20T00:00:00+07:00",
   "connector_timezone": "unconfirmed",
   "jira_projects": [
@@ -595,15 +595,555 @@
       "page_id": "110985626",
       "evidence": "source-read",
       "source": "Jira FSLP-1745 description explicitly references Confluence page 110985626"
+    },
+    {
+      "jira_key": "FSLP-1753",
+      "page_id": "85857237",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1753 description directly links Confluence 85857237; task scope compared with page v34",
+      "page_version": 34
+    },
+    {
+      "jira_key": "FSLP-1753",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1753 description directly links Confluence 110985481; task scope compared with page v5",
+      "page_version": 5
+    },
+    {
+      "jira_key": "FSLP-1753",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1753 description directly links Confluence 110985360; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1757",
+      "page_id": "85857237",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1757 description directly links Confluence 85857237; task scope compared with page v34",
+      "page_version": 34
+    },
+    {
+      "jira_key": "FSLP-1763",
+      "page_id": "85857237",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1763 description directly links Confluence 85857237; task scope compared with page v34",
+      "page_version": 34
+    },
+    {
+      "jira_key": "FSLP-1762",
+      "page_id": "85857237",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1762 description directly links Confluence 85857237; task scope compared with page v34",
+      "page_version": 34
+    },
+    {
+      "jira_key": "FSLP-1764",
+      "page_id": "85857237",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1764 description directly links Confluence 85857237; task scope compared with page v34",
+      "page_version": 34
+    },
+    {
+      "jira_key": "FSLP-1768",
+      "page_id": "85858739",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1768 description directly links Confluence 85858739; task scope compared with page v22",
+      "page_version": 22
+    },
+    {
+      "jira_key": "FSLP-1775",
+      "page_id": "85857237",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1775 description directly links Confluence 85857237; task scope compared with page v34",
+      "page_version": 34
+    },
+    {
+      "jira_key": "FSLP-1775",
+      "page_id": "110985360",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1775 description directly links Confluence 110985360; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1775",
+      "page_id": "110985481",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1775 description directly links Confluence 110985481; task scope compared with page v5",
+      "page_version": 5
+    },
+    {
+      "jira_key": "FSLP-1782",
+      "page_id": "85858739",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1782 description directly links Confluence 85858739; task scope compared with page v22",
+      "page_version": 22
+    },
+    {
+      "jira_key": "FSLP-1783",
+      "page_id": "85858739",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1783 description directly links Confluence 85858739; task scope compared with page v22",
+      "page_version": 22
+    },
+    {
+      "jira_key": "FSLP-1784",
+      "page_id": "85858739",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1784 description directly links Confluence 85858739; task scope compared with page v22",
+      "page_version": 22
+    },
+    {
+      "jira_key": "FSLP-899",
+      "page_id": "85860837",
+      "evidence": "source-read",
+      "source": "Jira FSLP-899 description directly links Confluence 85860837; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-900",
+      "page_id": "85860843",
+      "evidence": "source-read",
+      "source": "Jira FSLP-900 description directly links Confluence 85860843; task scope compared with page v11",
+      "page_version": 11
+    },
+    {
+      "jira_key": "FSLP-901",
+      "page_id": "110985296",
+      "evidence": "source-read",
+      "source": "Jira FSLP-901 description directly links Confluence 110985296; task scope compared with page v2",
+      "page_version": 2
+    },
+    {
+      "jira_key": "FSLP-902",
+      "page_id": "110985620",
+      "evidence": "source-read",
+      "source": "Jira FSLP-902 description directly links Confluence 110985620; task scope compared with page v7",
+      "page_version": 7
+    },
+    {
+      "jira_key": "FSLP-903",
+      "page_id": "110985219",
+      "evidence": "source-read",
+      "source": "Jira FSLP-903 description directly links Confluence 110985219; task scope compared with page v6",
+      "page_version": 6
+    },
+    {
+      "jira_key": "FSLP-904",
+      "page_id": "85861018",
+      "evidence": "source-read",
+      "source": "Jira FSLP-904 description directly links Confluence 85861018; task scope compared with page v3",
+      "page_version": 3
+    },
+    {
+      "jira_key": "FSLP-913",
+      "page_id": "85860693",
+      "evidence": "source-read",
+      "source": "Jira FSLP-913 description directly links Confluence 85860693; task scope compared with page v15",
+      "page_version": 15
+    },
+    {
+      "jira_key": "FSLP-1014",
+      "page_id": "85860329",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1014 description directly links Confluence 85860329; task scope compared with page v18",
+      "page_version": 18
+    },
+    {
+      "jira_key": "FSLP-1015",
+      "page_id": "85860329",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1015 description directly links Confluence 85860329; task scope compared with page v18",
+      "page_version": 18
+    },
+    {
+      "jira_key": "FSLP-1016",
+      "page_id": "85860329",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1016 description directly links Confluence 85860329; task scope compared with page v18",
+      "page_version": 18
+    },
+    {
+      "jira_key": "FSLP-1068",
+      "page_id": "85860843",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1068 description directly links Confluence 85860843; task scope compared with page v11",
+      "page_version": 11
+    },
+    {
+      "jira_key": "FSLP-1245",
+      "page_id": "85861018",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1245 description directly links Confluence 85861018; task scope compared with page v3",
+      "page_version": 3
+    },
+    {
+      "jira_key": "FSLP-1252",
+      "page_id": "85860952",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1252 description directly links Confluence 85860952; task scope compared with page v15",
+      "page_version": 15
+    },
+    {
+      "jira_key": "FSLP-1272",
+      "page_id": "110985219",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1272 description directly links Confluence 110985219; task scope compared with page v6",
+      "page_version": 6
+    },
+    {
+      "jira_key": "FSLP-1274",
+      "page_id": "85861063",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1274 description directly links Confluence 85861063; task scope compared with page v5",
+      "page_version": 5
+    },
+    {
+      "jira_key": "FSLP-1281",
+      "page_id": "110985296",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1281 description directly links Confluence 110985296; task scope compared with page v2",
+      "page_version": 2
+    },
+    {
+      "jira_key": "FSLP-1282",
+      "page_id": "110985285",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1282 description directly links Confluence 110985285; task scope compared with page v7",
+      "page_version": 7
+    },
+    {
+      "jira_key": "FSLP-1332",
+      "page_id": "85861018",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1332 description directly links Confluence 85861018; task scope compared with page v3",
+      "page_version": 3
+    },
+    {
+      "jira_key": "FSLP-1335",
+      "page_id": "85860837",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1335 description directly links Confluence 85860837; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1337",
+      "page_id": "85860837",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1337 description directly links Confluence 85860837; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1336",
+      "page_id": "85860837",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1336 description directly links Confluence 85860837; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1344",
+      "page_id": "85861018",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1344 description directly links Confluence 85861018; task scope compared with page v3",
+      "page_version": 3
+    },
+    {
+      "jira_key": "FSLP-1346",
+      "page_id": "110985219",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1346 description directly links Confluence 110985219; task scope compared with page v6",
+      "page_version": 6
+    },
+    {
+      "jira_key": "FSLP-1345",
+      "page_id": "110985219",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1345 description directly links Confluence 110985219; task scope compared with page v6",
+      "page_version": 6
+    },
+    {
+      "jira_key": "FSLP-1347",
+      "page_id": "110985219",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1347 description directly links Confluence 110985219; task scope compared with page v6",
+      "page_version": 6
+    },
+    {
+      "jira_key": "FSLP-1348",
+      "page_id": "85860843",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1348 description directly links Confluence 85860843; task scope compared with page v11",
+      "page_version": 11
+    },
+    {
+      "jira_key": "FSLP-1350",
+      "page_id": "85860843",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1350 description directly links Confluence 85860843; task scope compared with page v11",
+      "page_version": 11
+    },
+    {
+      "jira_key": "FSLP-1349",
+      "page_id": "85860843",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1349 description directly links Confluence 85860843; task scope compared with page v11",
+      "page_version": 11
+    },
+    {
+      "jira_key": "FSLP-1383",
+      "page_id": "110985589",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1383 description directly links Confluence 110985589; task scope compared with page v2",
+      "page_version": 2
+    },
+    {
+      "jira_key": "FSLP-1384",
+      "page_id": "110985538",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1384 description directly links Confluence 110985538; task scope compared with page v5",
+      "page_version": 5
+    },
+    {
+      "jira_key": "FSLP-1391",
+      "page_id": "110985296",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1391 description directly links Confluence 110985296; task scope compared with page v2",
+      "page_version": 2
+    },
+    {
+      "jira_key": "FSLP-1390",
+      "page_id": "110985296",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1390 description directly links Confluence 110985296; task scope compared with page v2",
+      "page_version": 2
+    },
+    {
+      "jira_key": "FSLP-1392",
+      "page_id": "110985296",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1392 description directly links Confluence 110985296; task scope compared with page v2",
+      "page_version": 2
+    },
+    {
+      "jira_key": "FSLP-1393",
+      "page_id": "110985538",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1393 description directly links Confluence 110985538; task scope compared with page v5",
+      "page_version": 5
+    },
+    {
+      "jira_key": "FSLP-1394",
+      "page_id": "110985538",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1394 description directly links Confluence 110985538; task scope compared with page v5",
+      "page_version": 5
+    },
+    {
+      "jira_key": "FSLP-1395",
+      "page_id": "110985538",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1395 description directly links Confluence 110985538; task scope compared with page v5",
+      "page_version": 5
+    },
+    {
+      "jira_key": "FSLP-1397",
+      "page_id": "110985589",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1397 description directly links Confluence 110985589; task scope compared with page v2",
+      "page_version": 2
+    },
+    {
+      "jira_key": "FSLP-1396",
+      "page_id": "110985589",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1396 description directly links Confluence 110985589; task scope compared with page v2",
+      "page_version": 2
+    },
+    {
+      "jira_key": "FSLP-1398",
+      "page_id": "110985589",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1398 description directly links Confluence 110985589; task scope compared with page v2",
+      "page_version": 2
+    },
+    {
+      "jira_key": "FSLP-1413",
+      "page_id": "85860837",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1413 description directly links Confluence 85860837; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1415",
+      "page_id": "85860837",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1415 description directly links Confluence 85860837; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1416",
+      "page_id": "85860837",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1416 description directly links Confluence 85860837; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1417",
+      "page_id": "85860837",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1417 description directly links Confluence 85860837; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1418",
+      "page_id": "85860837",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1418 description directly links Confluence 85860837; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1441",
+      "page_id": "110985677",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1441 description directly links Confluence 110985677; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1442",
+      "page_id": "110985677",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1442 description directly links Confluence 110985677; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1504",
+      "page_id": "85860952",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1504 description directly links Confluence 85860952; task scope compared with page v15",
+      "page_version": 15
+    },
+    {
+      "jira_key": "FSLP-1521",
+      "page_id": "110985620",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1521 description directly links Confluence 110985620; task scope compared with page v7",
+      "page_version": 7
+    },
+    {
+      "jira_key": "FSLP-1519",
+      "page_id": "110985620",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1519 description directly links Confluence 110985620; task scope compared with page v7",
+      "page_version": 7
+    },
+    {
+      "jira_key": "FSLP-1520",
+      "page_id": "110985620",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1520 description directly links Confluence 110985620; task scope compared with page v7",
+      "page_version": 7
+    },
+    {
+      "jira_key": "FSLP-1546",
+      "page_id": "110985677",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1546 description directly links Confluence 110985677; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1545",
+      "page_id": "110985677",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1545 description directly links Confluence 110985677; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1547",
+      "page_id": "110985677",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1547 description directly links Confluence 110985677; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1583",
+      "page_id": "110985285",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1583 description directly links Confluence 110985285; task scope compared with page v7",
+      "page_version": 7
+    },
+    {
+      "jira_key": "FSLP-1585",
+      "page_id": "110985677",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1585 description directly links Confluence 110985677; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1584",
+      "page_id": "110985677",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1584 description directly links Confluence 110985677; task scope compared with page v8",
+      "page_version": 8
+    },
+    {
+      "jira_key": "FSLP-1603",
+      "page_id": "110986006",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1603 description directly links Confluence 110986006; task scope compared with page v1",
+      "page_version": 1
+    },
+    {
+      "jira_key": "FSLP-1604",
+      "page_id": "110986026",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1604 description directly links Confluence 110986026; task scope compared with page v1",
+      "page_version": 1
+    },
+    {
+      "jira_key": "FSLP-1614",
+      "page_id": "85860693",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1614 description directly links Confluence 85860693; task scope compared with page v15",
+      "page_version": 15
+    },
+    {
+      "jira_key": "FSLP-1615",
+      "page_id": "85860693",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1615 description directly links Confluence 85860693; task scope compared with page v15",
+      "page_version": 15
+    },
+    {
+      "jira_key": "FSLP-1616",
+      "page_id": "85860693",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1616 description directly links Confluence 85860693; task scope compared with page v15",
+      "page_version": 15
+    },
+    {
+      "jira_key": "FSLP-1737",
+      "page_id": "85861063",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1737 description directly links Confluence 85861063; task scope compared with page v5",
+      "page_version": 5
+    },
+    {
+      "jira_key": "FSLP-1740",
+      "page_id": "110986006",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1740 description directly links Confluence 110986006; task scope compared with page v1",
+      "page_version": 1
+    },
+    {
+      "jira_key": "FSLP-1742",
+      "page_id": "110986026",
+      "evidence": "source-read",
+      "source": "Jira FSLP-1742 description directly links Confluence 110986026; task scope compared with page v1",
+      "page_version": 1
     }
   ],
   "pending_pages": [
-    {
-      "id": "85860329",
-      "title": "[LMS Admin Campus] Kết quả học tập - Nhập điểm thi bên ngoài",
-      "version": 18,
-      "verification": "pending source linkage"
-    },
     {
       "id": "85860577",
       "title": "LadingPage",
@@ -614,24 +1154,6 @@
       "id": "85860579",
       "title": "Khaosatsinhvientueba.fsel.edu.vn",
       "version": 4,
-      "verification": "pending source linkage"
-    },
-    {
-      "id": "85860693",
-      "title": "[LMS Admin] Bổ sung chức năng tạo tài khoản và xuất dữ liệu hàng loạt",
-      "version": 15,
-      "verification": "pending source linkage"
-    },
-    {
-      "id": "85860837",
-      "title": "[LMS] Nhận phản hồi tự động và theo dõi tiến độ xử lý Ticket cá nhân",
-      "version": 8,
-      "verification": "pending source linkage"
-    },
-    {
-      "id": "85860843",
-      "title": "[LMS] Gửi báo lỗi kèm chống Spam (Rate Limiting) và tự động gắn vị trí màn hình",
-      "version": 11,
       "verification": "pending source linkage"
     },
     {
@@ -647,69 +1169,9 @@
       "verification": "pending source linkage"
     },
     {
-      "id": "85860952",
-      "title": "[LMS][Mobile] Hiển thị khung làm bài ngang/dọc và giữ trạng thái khi xoay",
-      "version": 10,
-      "verification": "pending source linkage"
-    },
-    {
-      "id": "85861018",
-      "title": "[Portal Admin] Truy cập giả lập tài khoản học viên (Login as User) từ Ticket báo lỗi",
-      "version": 3,
-      "verification": "pending source linkage"
-    },
-    {
-      "id": "85861063",
-      "title": "[LMS][Mobile] Điều hướng câu hỏi và danh sách câu ở hai hướng màn hình",
-      "version": 5,
-      "verification": "pending source linkage"
-    },
-    {
-      "id": "110985219",
-      "title": "[Portal Admin] Quản lý, thống kê và xuất dữ liệu Ticket theo Tenant & Sự kiện",
-      "version": 6,
-      "verification": "pending source linkage"
-    },
-    {
-      "id": "110985285",
-      "title": "[LMS][Mobile] Hiển thị timer, xác nhận nộp bài và tự nộp khi hết giờ",
-      "version": 4,
-      "verification": "pending source linkage"
-    },
-    {
-      "id": "110985296",
-      "title": "[Portal Admin] Cấu hình danh sách Nhóm lỗi & Mức độ ưu tiên",
-      "version": 2,
-      "verification": "pending source linkage"
-    },
-    {
       "id": "110985436",
       "title": "CR - Tự động nhận diện, phân loại và điều phối báo lỗi bằng Machine Learning",
       "version": 1,
-      "verification": "pending source linkage"
-    },
-    {
-      "id": "110985538",
-      "title": "Hệ thống báo cáo và cơ cấu vinh danh - Sở, trường",
-      "version": 4,
-      "verification": "pending source linkage"
-    },
-    {
-      "id": "110985589",
-      "title": "Hệ thống báo cáo và cơ cấu vinh danh - Giáo viên",
-      "version": 2,
-      "verification": "pending source linkage"
-    },
-    {
-      "id": "110985620",
-      "title": "[Portal Admin] Tự động thông báo hoàn tất & Cảnh báo quá hạn SLA (Notifications & Alerts)",
-      "version": 7,
-      "verification": "pending source linkage"
-    },
-    {
-      "id": "110985677",
-      "title": "[LCMS] Bổ sung chức năng Import bài Test từ file Excel trong Test Config",
-      "version": 8,
       "verification": "pending source linkage"
     },
     {
@@ -719,15 +1181,15 @@
       "verification": "pending source linkage"
     },
     {
-      "id": "110986006",
-      "title": "[LMS Admin] Cấu hình giới hạn bài học tối đa, cảnh báo tiến độ bất thường và khóa tài khoản học sinh theo tuần",
+      "id": "110986036",
+      "title": "[LMS][Mobile] Play/Pause media, tiến trình và giới hạn lượt nghe",
       "version": 1,
       "verification": "pending source linkage"
     },
     {
-      "id": "110986026",
-      "title": "[LMS] Cảnh báo và khóa tài khoản",
-      "version": 1,
+      "id": "110986053",
+      "title": "[LMS] Hệ thống notification ver 1.2",
+      "version": 2,
       "verification": "pending source linkage"
     }
   ],
@@ -1514,7 +1976,39 @@
     "FSLP-1745",
     "FSLP-1746",
     "FSLP-1747",
-    "FSLP-1748"
+    "FSLP-1748",
+    "FSLP-1753",
+    "FSLP-1754",
+    "FSLP-1755",
+    "FSLP-1756",
+    "FSLP-1757",
+    "FSLP-1758",
+    "FSLP-1759",
+    "FSLP-1760",
+    "FSLP-1761",
+    "FSLP-1763",
+    "FSLP-1762",
+    "FSLP-1764",
+    "FSLP-1766",
+    "FSLP-1765",
+    "FSLP-1767",
+    "FSLP-1768",
+    "FSLP-1769",
+    "FSLP-1770",
+    "FSLP-1771",
+    "FSLP-1772",
+    "FSLP-1774",
+    "FSLP-1773",
+    "FSLP-1775",
+    "FSLP-1776",
+    "FSLP-1777",
+    "FSLP-1779",
+    "FSLP-1778",
+    "FSLP-1780",
+    "FSLP-1781",
+    "FSLP-1782",
+    "FSLP-1783",
+    "FSLP-1784"
   ],
   "seen_page_ids": [
     "110985733",
@@ -1536,10 +2030,27 @@
     "110985626",
     "110985981",
     "110985995",
-    "110985947"
+    "110985947",
+    "85857237",
+    "85858739",
+    "85860837",
+    "85860843",
+    "110985296",
+    "110985620",
+    "110985219",
+    "85861018",
+    "85860693",
+    "85860329",
+    "85860952",
+    "85861063",
+    "110985285",
+    "110985589",
+    "110985538",
+    "110985677",
+    "110986006",
+    "110986026"
   ],
   "gaps": [
-    "FHI and FSLP also occur in existing graph; complete project scans before watermark advancement.",
     "FSEL-8508 and FSEL-8583 are references in new pages, not evidence that those issues implement the pages."
   ],
   "backfill": {
@@ -1554,5 +2065,10 @@
       "FD",
       "LFD"
     ]
+  },
+  "last_run": {
+    "started_at": "2026-11-27T08:02:33.316Z",
+    "jira_pagination_complete": true,
+    "wiki_pagination_complete": true
   }
 }

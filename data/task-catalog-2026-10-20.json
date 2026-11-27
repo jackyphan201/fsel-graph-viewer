@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:33:00+07:00",
+  "generated_at": "2026-11-27T08:06:02.693Z",
   "scope": {
     "from": "2026-10-20T00:00:00+07:00",
     "scanned_through": "2026-11-26T11:30:00+07:00",
@@ -447,7 +447,7 @@
     {
       "key": "FSLP-870",
       "title": "[LMS ADMIN CAMPUS] Quản lý nhóm",
-      "status": "In Testing",
+      "status": "Testing Done",
       "issue_type": "Story",
       "created": "2026-10-21T09:13:47.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-870",
@@ -731,7 +731,7 @@
       "issue_type": "Story",
       "created": "2026-10-22T10:08:28.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-899",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -741,7 +741,7 @@
       "issue_type": "Story",
       "created": "2026-10-22T10:12:42.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-900",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -751,7 +751,7 @@
       "issue_type": "Story",
       "created": "2026-10-22T10:30:27.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-901",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -761,17 +761,17 @@
       "issue_type": "Story",
       "created": "2026-10-22T10:34:09.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-902",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
       "key": "FSLP-903",
       "title": "[Portal Admin] Quản lý, thống kê và xuất dữ liệu Ticket theo Tenant & Sự kiện",
-      "status": "Ready for Testing",
+      "status": "Testing Done",
       "issue_type": "Story",
       "created": "2026-10-22T10:36:03.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-903",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -781,7 +781,7 @@
       "issue_type": "Story",
       "created": "2026-10-22T10:52:46.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-904",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -871,7 +871,7 @@
       "issue_type": "Task",
       "created": "2026-10-22T16:22:05.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-913",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -1621,7 +1621,7 @@
       "issue_type": "Task",
       "created": "2026-10-27T15:53:40.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1014",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -1631,7 +1631,7 @@
       "issue_type": "Task",
       "created": "2026-10-27T15:53:40.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1015",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -1641,7 +1641,7 @@
       "issue_type": "Task",
       "created": "2026-10-27T15:53:41.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1016",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -2131,7 +2131,7 @@
       "issue_type": "Task",
       "created": "2026-10-29T18:19:45.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1068",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -2357,7 +2357,7 @@
     {
       "key": "FSLP-1091",
       "title": "[LMS ADMIN CAMPUS][Tester] Quản lý nhóm",
-      "status": "In Progress",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-02T11:28:51.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1091",
@@ -2537,7 +2537,7 @@
     {
       "key": "FSLP-1109",
       "title": "Họp Daily/Weekly/Monthly/Sprint T11",
-      "status": "In Progress",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-02T17:38:03.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1109",
@@ -2891,7 +2891,7 @@
       "issue_type": "Task",
       "created": "2026-11-03T16:09:43.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1245",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -2947,11 +2947,11 @@
     {
       "key": "FSLP-1252",
       "title": "[LMS] Hiển thị khung làm bài ngang/dọc và giữ trạng thái khi xoay",
-      "status": "In Design",
+      "status": "Verify Document",
       "issue_type": "Story",
       "created": "2026-11-03T17:05:13.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1252",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -3137,7 +3137,7 @@
     {
       "key": "FSLP-1271",
       "title": "[LMS] Dạng Short Answer (AI Grading - Kiểm tra - Writing) thi GK, CK",
-      "status": "Testing Done",
+      "status": "Ready for UAT",
       "issue_type": "Story",
       "created": "2026-11-04T15:50:48.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1271",
@@ -3151,17 +3151,17 @@
       "issue_type": "Task",
       "created": "2026-11-04T16:58:41.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1272",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
       "key": "FSLP-1274",
       "title": "[LMS] Điều hướng câu hỏi và danh sách câu ở hai hướng màn hình",
-      "status": "In Design",
+      "status": "Verify Document",
       "issue_type": "Story",
       "created": "2026-11-04T17:01:57.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1274",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -3231,17 +3231,17 @@
       "issue_type": "Task",
       "created": "2026-11-05T08:49:06.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1281",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
       "key": "FSLP-1282",
       "title": "[LMS] Hiển thị timer, xác nhận nộp bài và tự nộp khi hết giờ",
-      "status": "In Design",
+      "status": "Verify Document",
       "issue_type": "Story",
       "created": "2026-11-05T09:04:32.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1282",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -3447,7 +3447,7 @@
     {
       "key": "FSLP-1303",
       "title": "[LMS] Dạng Short Answer (AI Grading - Kiểm tra - Speaking) thi GK, CK",
-      "status": "Testing Done",
+      "status": "Ready for UAT",
       "issue_type": "Story",
       "created": "2026-11-05T17:13:54.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1303",
@@ -3657,7 +3657,7 @@
     {
       "key": "FSLP-1324",
       "title": "[LMS][Tester] Dạng Short Answer (AI Grading - Kiểm tra - Speaking)",
-      "status": "In Progress",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-09T10:34:03.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1324",
@@ -3667,7 +3667,7 @@
     {
       "key": "FSLP-1325",
       "title": "[LMS][BE] Dạng Short Answer (AI Grading - Kiểm tra - Writing)",
-      "status": "Ready for Integration",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-09T10:34:03.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1325",
@@ -3697,7 +3697,7 @@
     {
       "key": "FSLP-1328",
       "title": "[LMS][Tester] Dạng Short Answer (AI Grading - Kiểm tra - Writing)",
-      "status": "In Progress",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-09T10:34:04.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1328",
@@ -3741,7 +3741,7 @@
       "issue_type": "Task",
       "created": "2026-11-09T10:34:07.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1332",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -3761,27 +3761,27 @@
       "issue_type": "Task",
       "created": "2026-11-09T10:34:08.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1335",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
       "key": "FSLP-1336",
       "title": "[LMS][FE] Nhận phản hồi tự động và theo dõi tiến độ xử lý Ticket cá nhân",
-      "status": "In Progress",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-09T10:34:08.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1336",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
       "key": "FSLP-1337",
       "title": "[LMS][Mob] Nhận phản hồi tự động và theo dõi tiến độ xử lý Ticket cá nhân",
-      "status": "Pending",
+      "status": "In Progress",
       "issue_type": "Task",
       "created": "2026-11-09T10:34:08.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1337",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -3851,7 +3851,7 @@
       "issue_type": "Task",
       "created": "2026-11-09T10:59:03.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1344",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -3861,7 +3861,7 @@
       "issue_type": "Task",
       "created": "2026-11-09T10:59:03.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1345",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -3871,7 +3871,7 @@
       "issue_type": "Task",
       "created": "2026-11-09T10:59:03.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1346",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -3881,7 +3881,7 @@
       "issue_type": "Task",
       "created": "2026-11-09T10:59:04.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1347",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -3891,7 +3891,7 @@
       "issue_type": "Task",
       "created": "2026-11-09T10:59:04.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1348",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -3901,7 +3901,7 @@
       "issue_type": "Task",
       "created": "2026-11-09T10:59:05.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1349",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -3911,7 +3911,7 @@
       "issue_type": "Task",
       "created": "2026-11-09T10:59:05.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1350",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4057,7 +4057,7 @@
     {
       "key": "FSLP-1366",
       "title": "[LMS][BA] Cấp Giấy chứng nhận hoàn thành khóa học trên FSEL cho Học viên",
-      "status": "In Progress",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-09T17:53:46.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1366",
@@ -4221,7 +4221,7 @@
       "issue_type": "Story",
       "created": "2026-11-10T14:35:14.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1383",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4231,7 +4231,7 @@
       "issue_type": "Story",
       "created": "2026-11-10T14:38:45.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1384",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4291,7 +4291,7 @@
       "issue_type": "Task",
       "created": "2026-11-10T16:14:00.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1390",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4301,7 +4301,7 @@
       "issue_type": "Task",
       "created": "2026-11-10T16:14:00.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1391",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4311,7 +4311,7 @@
       "issue_type": "Task",
       "created": "2026-11-10T16:14:01.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1392",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4321,7 +4321,7 @@
       "issue_type": "Task",
       "created": "2026-11-10T16:23:58.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1393",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4331,7 +4331,7 @@
       "issue_type": "Task",
       "created": "2026-11-10T16:23:59.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1394",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4341,7 +4341,7 @@
       "issue_type": "Task",
       "created": "2026-11-10T16:23:59.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1395",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4351,7 +4351,7 @@
       "issue_type": "Task",
       "created": "2026-11-10T16:24:00.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1396",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4361,7 +4361,7 @@
       "issue_type": "Task",
       "created": "2026-11-10T16:24:00.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1397",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4371,7 +4371,7 @@
       "issue_type": "Task",
       "created": "2026-11-10T16:24:00.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1398",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4521,7 +4521,7 @@
       "issue_type": "Story",
       "created": "2026-11-11T14:58:14.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1413",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4541,7 +4541,7 @@
       "issue_type": "Task",
       "created": "2026-11-11T15:04:00.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1415",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4551,7 +4551,7 @@
       "issue_type": "Task",
       "created": "2026-11-11T15:04:00.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1416",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4561,7 +4561,7 @@
       "issue_type": "Task",
       "created": "2026-11-11T15:04:01.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1417",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4571,7 +4571,7 @@
       "issue_type": "Task",
       "created": "2026-11-11T15:04:01.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1418",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4637,7 +4637,7 @@
     {
       "key": "FSLP-1425",
       "title": "[LMS][BA] UAT task release w42",
-      "status": "Open",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-11T17:08:27.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1425",
@@ -4801,7 +4801,7 @@
       "issue_type": "Story",
       "created": "2026-11-12T17:43:49.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1441",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -4811,7 +4811,7 @@
       "issue_type": "Task",
       "created": "2026-11-12T17:44:32.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1442",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -5427,11 +5427,11 @@
     {
       "key": "FSLP-1504",
       "title": "[LMS][BA] Hiển thị khung làm bài ngang/dọc và giữ trạng thái khi xoay",
-      "status": "In Progress",
+      "status": "Ready for Review",
       "issue_type": "Task",
       "created": "2026-11-17T15:05:16.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1504",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -5527,7 +5527,7 @@
     {
       "key": "FSLP-1517",
       "title": "[FSEL CAMPUS] Bổ sung cột Mã sinh viên ở file xuất báo cáo học tập cho trường Đại học Xây dựng",
-      "status": "Ready for Testing",
+      "status": "Testing Done",
       "issue_type": "Story",
       "created": "2026-11-18T08:49:56.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1517",
@@ -5551,7 +5551,7 @@
       "issue_type": "Task",
       "created": "2026-11-18T09:24:22.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1519",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -5561,7 +5561,7 @@
       "issue_type": "Task",
       "created": "2026-11-18T09:24:22.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1520",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -5571,7 +5571,7 @@
       "issue_type": "Task",
       "created": "2026-11-18T09:24:22.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1521",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -5787,7 +5787,7 @@
     {
       "key": "FSLP-1543",
       "title": "[LMS][DESIGN] Báo cáo cuối khóa, báo cáo hết tháng tự học, Xử lý logic điều hướng học viên chọn khóa tiếp theo",
-      "status": "In Progress",
+      "status": "Ready for Review",
       "issue_type": "Task",
       "created": "2026-11-19T14:52:22.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1543",
@@ -5811,7 +5811,7 @@
       "issue_type": "Task",
       "created": "2026-11-19T15:19:26.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1545",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -5821,7 +5821,7 @@
       "issue_type": "Task",
       "created": "2026-11-19T15:19:26.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1546",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -5831,7 +5831,7 @@
       "issue_type": "Task",
       "created": "2026-11-19T15:19:27.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1547",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -5997,7 +5997,7 @@
     {
       "key": "FSLP-1564",
       "title": "[LMS] Update văn bản STT của dạng HSKK",
-      "status": "Ready for Development",
+      "status": "Ready for Testing",
       "issue_type": "Story",
       "created": "2026-11-19T17:47:52.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1564",
@@ -6127,7 +6127,7 @@
     {
       "key": "FSLP-1577",
       "title": "[LMS ADMIN][DESIGN] Cập nhật giao diện hiển thị trạng Đang dịch key",
-      "status": "Ready for Review",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-20T11:03:24.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1577",
@@ -6187,11 +6187,11 @@
     {
       "key": "FSLP-1583",
       "title": "[LMS][BA] Hiển thị timer, xác nhận nộp bài và tự nộp khi hết giờ",
-      "status": "Open",
+      "status": "Ready for Review",
       "issue_type": "Task",
       "created": "2026-11-20T14:50:23.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1583",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -6201,7 +6201,7 @@
       "issue_type": "Task",
       "created": "2026-11-20T14:54:24.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1584",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -6211,13 +6211,13 @@
       "issue_type": "Task",
       "created": "2026-11-20T14:54:24.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1585",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
       "key": "FSLP-1586",
       "title": "[BE][NonFunction] Không hiển thị Prompt Config AI trong response của toàn bộ các API endpoint",
-      "status": "Open",
+      "status": "Ready for Development",
       "issue_type": "Technical Story",
       "created": "2026-11-20T15:05:29.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1586",
@@ -6227,7 +6227,7 @@
     {
       "key": "FSLP-1587",
       "title": "[BE][NonFunction] Không hiển thị Prompt Config AI trong response của toàn bộ các API endpoint",
-      "status": "In Progress",
+      "status": "Pending",
       "issue_type": "Task",
       "created": "2026-11-20T15:08:24.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1587",
@@ -6257,7 +6257,7 @@
     {
       "key": "FSLP-1590",
       "title": "[LCMS] Cấu hình các course có thể lựa chọn sau khi đã hoàn thành course",
-      "status": "Ready for Development",
+      "status": "In Development",
       "issue_type": "Story",
       "created": "2026-11-20T15:57:40.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1590",
@@ -6277,7 +6277,7 @@
     {
       "key": "FSLP-1592",
       "title": "[LCMS][FE] Cấu hình các course có thể lựa chọn sau khi đã hoàn thành course",
-      "status": "Open",
+      "status": "In Progress",
       "issue_type": "Task",
       "created": "2026-11-20T15:59:13.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1592",
@@ -6297,7 +6297,7 @@
     {
       "key": "FSLP-1594",
       "title": "[LMS] Cập nhật ảnh hưởng khi level selection động theo cấu hình LCMS",
-      "status": "Ready for Development",
+      "status": "In Development",
       "issue_type": "Story",
       "created": "2026-11-20T16:00:05.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1594",
@@ -6327,7 +6327,7 @@
     {
       "key": "FSLP-1597",
       "title": "[LMS][DESIGN] Cập nhật ảnh hưởng khi level selection động theo cấu hình LCMS",
-      "status": "Ready for Review",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-20T17:49:31.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1597",
@@ -6336,7 +6336,7 @@
     },
     {
       "key": "FSLP-1598",
-      "title": "Nâng cấp và tối ưu source Backend",
+      "title": "Nâng cấp và tối ưu hệ thống",
       "status": "Open",
       "issue_type": "Epic",
       "created": "2026-11-20T18:20:28.000+0700",
@@ -6391,7 +6391,7 @@
       "issue_type": "Story",
       "created": "2026-11-21T10:19:13.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1603",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -6401,7 +6401,7 @@
       "issue_type": "Story",
       "created": "2026-11-21T14:46:00.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1604",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -6457,7 +6457,7 @@
     {
       "key": "FSLP-1610",
       "title": "[FSEL CAMPUS][Tester] Bổ sung cột Mã sinh viên ở file xuất báo cáo học tập cho trường Đại học Xây dựng",
-      "status": "Open",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-22T21:14:22.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1610",
@@ -6501,7 +6501,7 @@
       "issue_type": "Task",
       "created": "2026-11-22T21:14:27.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1614",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -6511,7 +6511,7 @@
       "issue_type": "Task",
       "created": "2026-11-22T21:14:27.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1615",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -6521,7 +6521,7 @@
       "issue_type": "Task",
       "created": "2026-11-22T21:14:27.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1616",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -6537,7 +6537,7 @@
     {
       "key": "FSLP-1618",
       "title": "[LMS][FE] Banner cảnh báo Tool AI làm FSEL trên hệ thống LMS",
-      "status": "Open",
+      "status": "In Progress",
       "issue_type": "Task",
       "created": "2026-11-22T21:19:26.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1618",
@@ -6687,7 +6687,7 @@
     {
       "key": "FSLP-1633",
       "title": "[LCMS][BE] Cập nhật lại config dạng câu hỏi Short Answer của 3 Tennant giáo viên",
-      "status": "Open",
+      "status": "In Progress",
       "issue_type": "Task",
       "created": "2026-11-22T21:39:22.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1633",
@@ -6707,7 +6707,7 @@
     {
       "key": "FSLP-1635",
       "title": "[LMS] Cập nhật Design Short Answer (AI Granding-kiểm tra-Speaking) thi GK, CK",
-      "status": "Ready for Testing",
+      "status": "Ready for UAT",
       "issue_type": "Story",
       "created": "2026-11-23T09:23:18.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1635",
@@ -6767,7 +6767,7 @@
     {
       "key": "FSLP-1641",
       "title": "[LMS] Cập nhật bộ đếm Sub Question Dạng câu hỏi Short Answer thi GK, CK",
-      "status": "Ready for Testing",
+      "status": "Ready for UAT",
       "issue_type": "Story",
       "created": "2026-11-23T13:43:50.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1641",
@@ -6797,7 +6797,7 @@
     {
       "key": "FSLP-1644",
       "title": "[LMS][Tester] Cập nhật bộ đếm Sub Question Dạng câu hỏi Short Answer",
-      "status": "Open",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-23T13:49:27.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1644",
@@ -6817,7 +6817,7 @@
     {
       "key": "FSLP-1646",
       "title": "[LMS] Cập nhật logic nút Tiếp tục/Nộp bài cho Test",
-      "status": "Ready for Development",
+      "status": "In Development",
       "issue_type": "Story",
       "created": "2026-11-23T14:00:00.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1646",
@@ -6837,7 +6837,7 @@
     {
       "key": "FSLP-1648",
       "title": "[LMS][Mob] Cập nhật logic nút Tiếp tục/Nộp bài cho Test",
-      "status": "Open",
+      "status": "In Progress",
       "issue_type": "Task",
       "created": "2026-11-23T14:14:25.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1648",
@@ -7007,7 +7007,7 @@
     {
       "key": "FSLP-1665",
       "title": "[LMS][Tester] Cập nhật nội dung lưu ý về điểm và nhận xét AI trên kết quả Thi CK-GK",
-      "status": "Open",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-23T14:34:25.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1665",
@@ -7047,7 +7047,7 @@
     {
       "key": "FSLP-1669",
       "title": "[LMS][BE] Update văn bản STT của dạng HSKK",
-      "status": "Open",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-23T14:44:26.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1669",
@@ -7077,7 +7077,7 @@
     {
       "key": "FSLP-1672",
       "title": "[LCMS] Thêm trường Gợi ý đáp án cho HSKK Speaking Part 2",
-      "status": "In Development",
+      "status": "Ready for Testing",
       "issue_type": "Story",
       "created": "2026-11-23T15:39:56.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1672",
@@ -7087,7 +7087,7 @@
     {
       "key": "FSLP-1673",
       "title": "[LMS] Đổi nguồn dữ liệu Gợi ý đáp án của HSKK Speaking Part 2",
-      "status": "Ready for Development",
+      "status": "In Development",
       "issue_type": "Story",
       "created": "2026-11-23T15:40:06.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1673",
@@ -7147,7 +7147,7 @@
     {
       "key": "FSLP-1679",
       "title": "[LMS][BE] Đổi nguồn dữ liệu Gợi ý đáp án của HSKK Speaking Part 2",
-      "status": "Open",
+      "status": "In Progress",
       "issue_type": "Task",
       "created": "2026-11-23T16:59:28.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1679",
@@ -7187,7 +7187,7 @@
     {
       "key": "FSLP-1683",
       "title": "[LCMS][BE] Thêm trường Gợi ý đáp án cho HSKK Speaking Part 2",
-      "status": "Ready for Integration",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-23T16:59:31.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1683",
@@ -7197,7 +7197,7 @@
     {
       "key": "FSLP-1684",
       "title": "[LCMS][FE] Thêm trường Gợi ý đáp án cho HSKK Speaking Part 2",
-      "status": "Open",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-23T16:59:32.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1684",
@@ -7357,7 +7357,7 @@
     {
       "key": "FSLP-1700",
       "title": "[LMS][BA] Course target hiển thị cho học sinh thuộc Campus",
-      "status": "Open",
+      "status": "In Progress",
       "issue_type": "Task",
       "created": "2026-11-23T17:30:18.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1700",
@@ -7387,7 +7387,7 @@
     {
       "key": "FSLP-1703",
       "title": "[LMS][BA] Dynamic link + notification ver 1.2",
-      "status": "In Progress",
+      "status": "Ready for Review",
       "issue_type": "Task",
       "created": "2026-11-23T17:33:43.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1703",
@@ -7437,7 +7437,7 @@
     {
       "key": "FSLP-1708",
       "title": "[BE] Xây dựng AI service để các microservice sử dụng, tích hợp langfuse vào AI service",
-      "status": "Open",
+      "status": "Ready for Development",
       "issue_type": "Technical Story",
       "created": "2026-11-25T09:50:32.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1708",
@@ -7487,7 +7487,7 @@
     {
       "key": "FSLP-1713",
       "title": "[LMS Admin][BE] Cập nhật Hiển thị điểm kết quả thi",
-      "status": "In Progress",
+      "status": "Ready for Integration",
       "issue_type": "Task",
       "created": "2026-11-25T10:09:22.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1713",
@@ -7497,7 +7497,7 @@
     {
       "key": "FSLP-1714",
       "title": "[LMS Admin][FE] Cập nhật Hiển thị điểm kết quả thi",
-      "status": "Open",
+      "status": "In Progress",
       "issue_type": "Task",
       "created": "2026-11-25T10:09:23.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1714",
@@ -7517,7 +7517,7 @@
     {
       "key": "FSLP-1716",
       "title": "[LMS Admin Campus] [Design] Cấu hình giới hạn tiến độ hoàn thành bài học",
-      "status": "Open",
+      "status": "Ready for Review",
       "issue_type": "Task",
       "created": "2026-11-25T10:23:02.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1716",
@@ -7547,7 +7547,7 @@
     {
       "key": "FSLP-1719",
       "title": "[LMS ADMIN CAMPUS][FE] File danh sách cần đôn đốc đang không đúng",
-      "status": "Ready for Development",
+      "status": "Done",
       "issue_type": "Bug",
       "created": "2026-11-25T11:31:30.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1719",
@@ -7717,7 +7717,7 @@
     {
       "key": "FSLP-1736",
       "title": "[LMS ADMIN CAMPUS][BE] Ở màn Chi tiết giao trình đang trả về tên nhóm là null",
-      "status": "Ready for Development",
+      "status": "Done",
       "issue_type": "Bug",
       "created": "2026-11-25T14:04:28.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1736",
@@ -7727,11 +7727,11 @@
     {
       "key": "FSLP-1737",
       "title": "[LMS][BA] Điều hướng câu hỏi và danh sách câu ở hai hướng màn hình",
-      "status": "Open",
+      "status": "In Progress",
       "issue_type": "Task",
       "created": "2026-11-25T15:10:07.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1737",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -7761,7 +7761,7 @@
       "issue_type": "Task",
       "created": "2026-11-25T15:56:48.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1740",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -7781,7 +7781,7 @@
       "issue_type": "Task",
       "created": "2026-11-25T16:09:33.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1742",
-      "document_link_verified": false,
+      "document_link_verified": true,
       "was_missing": true
     },
     {
@@ -7797,7 +7797,7 @@
     {
       "key": "FSLP-1744",
       "title": "[LMS][FE] Cập nhật ảnh hưởng khi level selection động theo cấu hình LCMS",
-      "status": "Open",
+      "status": "Ready for Integration",
       "issue_type": "Task",
       "created": "2026-11-25T17:24:25.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1744",
@@ -7837,12 +7837,300 @@
     {
       "key": "FSLP-1748",
       "title": "[LMS] Test Performance của phần thi GK-CK",
-      "status": "Open",
+      "status": "Done",
       "issue_type": "Task",
       "created": "2026-11-26T09:13:27.000+0700",
       "url": "https://jira.fsel.edu.vn/browse/FSLP-1748",
       "document_link_verified": false,
       "was_missing": true
+    },
+    {
+      "key": "FSLP-1753",
+      "title": "[LMS] Thi CK–GK — Giữ nút Nộp bài sau khi xem lại câu trước",
+      "status": "Open",
+      "issue_type": "Story",
+      "created": "2026-11-26T14:32:18.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1753",
+      "document_link_verified": true
+    },
+    {
+      "key": "FSLP-1754",
+      "title": "[BE][NonFunction] Xây dựng trang Monitor Exam",
+      "status": "Done",
+      "issue_type": "Task",
+      "created": "2026-11-26T15:21:25.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1754",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1755",
+      "title": "[Portal Admin] Cập nhật Data Ticket cũ",
+      "status": "Ready for Development",
+      "issue_type": "Story",
+      "created": "2026-11-26T15:30:51.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1755",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1756",
+      "title": "[LMS Admin] Bổ sung Toogle Bật / Tắt giám sát vi phạm khi tạo bài thi",
+      "status": "In Development",
+      "issue_type": "Story",
+      "created": "2026-11-26T15:53:16.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1756",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1757",
+      "title": "[LMS] Bổ sung Logic Bật/Tắt chức năng Giám sát vi phạm",
+      "status": "In Development",
+      "issue_type": "Story",
+      "created": "2026-11-26T15:58:18.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1757",
+      "document_link_verified": true
+    },
+    {
+      "key": "FSLP-1758",
+      "title": "[Portal Admin][BE] Cập nhật Data Ticket cũ",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-26T16:39:27.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1758",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1759",
+      "title": "[Portal Admin][Tester] Cập nhật Data Ticket cũ",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-26T16:39:28.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1759",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1760",
+      "title": "[LMS][BA] Test thi gk ck + họp fsel campus",
+      "status": "Done",
+      "issue_type": "Task",
+      "created": "2026-11-26T17:25:44.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1760",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1761",
+      "title": "[BA] Tạo tài liệu hướng dẫn sử dụng",
+      "status": "Done",
+      "issue_type": "Task",
+      "created": "2026-11-26T18:03:22.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1761",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1763",
+      "title": "[LMS][FE] Bổ sung Logic Bật/Tắt chức năng Giám sát vi phạm",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-27T08:54:24.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1763",
+      "document_link_verified": true
+    },
+    {
+      "key": "FSLP-1762",
+      "title": "[LMS][BE] Bổ sung Logic Bật/Tắt chức năng Giám sát vi phạm",
+      "status": "In Progress",
+      "issue_type": "Task",
+      "created": "2026-11-27T08:54:24.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1762",
+      "document_link_verified": true
+    },
+    {
+      "key": "FSLP-1764",
+      "title": "[LMS][Tester] Bổ sung Logic Bật/Tắt chức năng Giám sát vi phạm",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-27T08:54:25.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1764",
+      "document_link_verified": true
+    },
+    {
+      "key": "FSLP-1766",
+      "title": "[LMS Admin][FE] Bổ sung Toogle Bật / Tắt giám sát vi phạm khi tạo bài thi",
+      "status": "In Progress",
+      "issue_type": "Task",
+      "created": "2026-11-27T08:54:25.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1766",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1765",
+      "title": "[LMS Admin][BE] Bổ sung Toogle Bật / Tắt giám sát vi phạm khi tạo bài thi",
+      "status": "In Progress",
+      "issue_type": "Task",
+      "created": "2026-11-27T08:54:25.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1765",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1767",
+      "title": "[LMS Admin][Tester] Bổ sung Toogle Bật / Tắt giám sát vi phạm khi tạo bài thi",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-27T08:54:26.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1767",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1768",
+      "title": "[LMS Admin] Bổ sung chức năng xuất file báo cáo kết quả ca thi",
+      "status": "Ready for Development",
+      "issue_type": "Story",
+      "created": "2026-11-27T09:05:47.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1768",
+      "document_link_verified": true
+    },
+    {
+      "key": "FSLP-1769",
+      "title": "[LCMS][DESIGN] Thêm trường Gợi ý đáp án cho HSKK Speaking Part 2",
+      "status": "In Progress",
+      "issue_type": "Task",
+      "created": "2026-11-27T09:07:29.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1769",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1770",
+      "title": "[BUG][Ticket-Portal]BUG-261125-141442057",
+      "status": "Ready for Development",
+      "issue_type": "Bug",
+      "created": "2026-11-27T09:44:47.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1770",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1771",
+      "title": "[FSEL CAMPUS] Thay text màn chặn",
+      "status": "Ready for Testing",
+      "issue_type": "Story",
+      "created": "2026-11-27T10:55:43.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1771",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1772",
+      "title": "[FSEL CAMPUS][FE] Thay text màn chặn",
+      "status": "Done",
+      "issue_type": "Task",
+      "created": "2026-11-27T11:34:25.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1772",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1774",
+      "title": "[FSEL CAMPUS][Tester] Thay text màn chặn",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-27T11:34:26.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1774",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1773",
+      "title": "[FSEL CAMPUS][Mob] Thay text màn chặn",
+      "status": "Done",
+      "issue_type": "Task",
+      "created": "2026-11-27T11:34:26.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1773",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1775",
+      "title": "[LMS][Mob] Hoàn thiện luồng làm bài và kết quả Thi CK-GK trên Mobile/Tablet",
+      "status": "Open",
+      "issue_type": "Story",
+      "created": "2026-11-27T11:49:14.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1775",
+      "document_link_verified": true
+    },
+    {
+      "key": "FSLP-1776",
+      "title": "[LMS] Cập nhật bổ sung thêm Index vào các SKILL",
+      "status": "Ready for Development",
+      "issue_type": "Story",
+      "created": "2026-11-27T14:55:07.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1776",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1777",
+      "title": "[LMS] Bổ sung phần kiểm tra thiết bị Tai nghe và âm thanh trước khi vào bài Test",
+      "status": "Ready for Development",
+      "issue_type": "Story",
+      "created": "2026-11-27T14:58:18.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1777",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1779",
+      "title": "[LMS][Tester] Bổ sung phần kiểm tra thiết bị Tai nghe và âm thanh trước khi vào bài Test",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-27T14:59:25.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1779",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1778",
+      "title": "[LMS][FE] Bổ sung phần kiểm tra thiết bị Tai nghe và âm thanh trước khi vào bài Test",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-27T14:59:25.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1778",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1780",
+      "title": "[LMS][FE] Cập nhật bổ sung thêm Index vào các SKILL",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-27T14:59:26.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1780",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1781",
+      "title": "[LMS][Tester] Cập nhật bổ sung thêm Index vào các SKILL",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-27T14:59:26.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1781",
+      "document_link_verified": false
+    },
+    {
+      "key": "FSLP-1782",
+      "title": "[LMS Admin][BE] Bổ sung chức năng xuất file báo cáo kết quả ca thi",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-27T14:59:26.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1782",
+      "document_link_verified": true
+    },
+    {
+      "key": "FSLP-1783",
+      "title": "[LMS Admin][FE] Bổ sung chức năng xuất file báo cáo kết quả ca thi",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-27T14:59:27.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1783",
+      "document_link_verified": true
+    },
+    {
+      "key": "FSLP-1784",
+      "title": "[LMS Admin][Tester] Bổ sung chức năng xuất file báo cáo kết quả ca thi",
+      "status": "Open",
+      "issue_type": "Task",
+      "created": "2026-11-27T14:59:27.000+0700",
+      "url": "https://jira.fsel.edu.vn/browse/FSLP-1784",
+      "document_link_verified": true
     }
   ]
 }
