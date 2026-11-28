@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-27T08:06:02.693Z",
+  "updated_at": "2026-11-28T03:20:39.052Z",
   "successful_scan_watermark": "2026-11-27T08:02:33.316Z",
   "initial_baseline": "2026-10-20T00:00:00+07:00",
   "connector_timezone": "unconfirmed",
@@ -2067,8 +2067,13 @@
     ]
   },
   "last_run": {
-    "started_at": "2026-11-27T08:02:33.316Z",
-    "jira_pagination_complete": true,
-    "wiki_pagination_complete": true
+    "started_at": "2026-11-28T02:19:50.270Z",
+    "jira_pagination_complete": false,
+    "wiki_pagination_complete": false,
+    "status": "source_access_denied",
+    "errors": [
+      "Jira HTTP 403",
+      "Confluence HTTP 403"
+    ]
   }
 }

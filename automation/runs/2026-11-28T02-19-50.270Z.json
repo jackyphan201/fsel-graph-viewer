@@ -1,0 +1,15 @@
+{
+  "started_at": "2026-11-28T02:19:50.270Z",
+  "jira_pagination_complete": false,
+  "wiki_pagination_complete": false,
+  "status": "source_access_denied",
+  "errors": [
+    "Jira HTTP 403",
+    "Confluence HTTP 403"
+  ],
+  "completed_at": "2026-11-28T03:20:39.052Z",
+  "watermark_preserved": "2026-11-27T08:02:33.316Z",
+  "pending_pages_preserved": 8,
+  "graph_changed": false,
+  "deployment": "No graph change; source scan blocked"
+}
